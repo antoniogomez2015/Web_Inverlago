@@ -1,0 +1,537 @@
+body, div{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+/**proof sidebar right*/
+
+a{
+	font-family:arial,hevetica,sans serif;
+	color:#06F;
+}
+
+h3{
+	font-family:arial,helvetica,sans serif;
+	font-size:30px;
+	font-weight:bold;
+	color:#09F;
+	padding:30px 0 0 435px;
+}
+
+h4{
+	font-family:arial,helvetica,sans serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#09F;
+	padding:0 0 0 5px;
+}
+
+	#wrapper{
+		width:1030px;
+		margin:auto;
+	}
+	
+		#campo{
+			width:1024px;
+			height:300px;
+		}		
+
+			#TopSlideshow{
+				width: 1024px;
+				height: 300px;
+				position: relative;
+			}
+
+				#TopSlideshow div{
+					width: 1024px;
+					height: 300px;					
+					position: absolute;	
+				}
+
+					#TopSlideshow div img{
+						width: 1024px;
+						height: 300px;
+						border-radius: 18px;
+					}
+			
+		#divisiones{
+			width:1024px;
+			height:40px;
+		}
+		
+			#divisiones table{				
+				margin:10px 0 0 110px;				
+			}
+			
+				#divisiones table th{
+					margin:0 20px 0 20px;													
+				}
+				
+					#divisiones table a{
+						font-family:arial, helvetica,sans serif;
+						font-size:10px;
+						font-weight:bold;
+						color:#06C;
+						padding:0 0 20px 20px;
+					}
+					
+			#info_corporativo{
+				width:250px;
+				height:190px;
+				background-color:rgba(0,0,0,0.9);
+				-webkit-border-radius:15px;
+				-moz-border-radius:15px;
+				z-index:10000;
+			}
+			
+		nav{
+			width:1024px;
+			margin:40px 0 0 0;		
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		#id img{
+			border:0;
+			margin:0;
+			z-index:0;			
+			}
+			
+		#menu ul{
+			list-style-type:none;
+		}
+		
+			#menu ul li{
+				width:150px;				
+			}
+			
+				#menu ul li a{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					font-weight:bold;
+					color:#06F;
+					padding:0 0 5px 0;
+				}
+		
+		#modulo1{
+			width:1024px;
+			height:334px;
+			margin:0;
+			background-image:url(../img/quienesSomos/modulo_main2.jpg);			
+			}
+			
+				#modulo1 .text{
+					position: relative;
+					left: -20px;
+					top: 0px;
+				}
+			
+				#modulo1 .text p{
+					padding:10px 5px 5px 0px;
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:300;
+					line-height:30px;					
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-170px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+								
+		.sub1{
+			position: absolute;
+			left: 0px;
+			top: 100px;
+			text-align: center;
+		}
+			
+				.sub1 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub1 a:hover{
+					color:#999;
+				}
+			
+		.sub2{
+			position:absolute;
+			left:70px;
+			top:210px;
+		}
+			
+				.sub2 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub2 a:hover{
+					color:#999;
+				}
+			
+		.sub3{
+			position: absolute;
+			left: 235px;
+			top: 275px;
+		}
+			
+				.sub3 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub3 a:hover{
+					color:#999;
+				}
+			
+			
+		.sub4{
+			position: absolute;
+			left: 400px;
+			top: 220px;
+		}
+			
+				.sub4 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:11px;
+					color:#06F;
+				}
+				
+				.sub4 a:hover{
+					color:#999;
+				}			
+		
+		.sub5{
+			position: absolute;
+			left: 485px;
+			top: 100px;
+		}
+			
+				.sub5 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub5 a:hover{
+					color:#999;
+				}
+			
+		#modulo1 .noticias{
+			position: relative;
+			left: 930px;
+			top: -140px;
+			margin: 3px 5px 3px 5px;
+		}
+		
+			#modulo1 .noticias a{
+				font-family:arial,helvetica,sans serif;
+				font-size:16px;
+				color:#FFF;
+			}
+			
+				#modulo1 .noticias a:hover{
+					color:#039;
+				}
+		
+			
+		#modulo1 table{
+			position:relative;
+			top:-160px;
+			left:40px;
+			transition:transform 0.6s;
+			-moz-transition:-moz-transform 0.6s;
+			-o-transition:-o-transform 0.4s;
+			-ms-transition:-ms-transform 0.6s;
+			-webkit-transition:-webkit-transform 0.6s;
+		}
+		
+			#modulo1 table .facebook img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/facebook-activo.png);
+			}
+			
+			#modulo1 table .twitter img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/twitter-activo.png);
+			}
+			
+			#modulo1 table .youtube img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/youtube-activo.png);
+			}
+			
+		
+		#estados_obras{
+			width:1024px;
+				
+		}
+		
+			#mapa{
+				width:1024px;
+				margin:5px 0 10px 100px;
+			}
+			
+			.nuestras_obras{
+				font-size:24px;
+				position:relative;
+				top:0px;
+				left:-200px;
+			}
+			
+			#deportes{
+				width:850px;
+				height:1500px;
+				padding:0px 0px 0px 10px;
+			}
+			
+			.obras_deportes{
+				position:relative;
+				top:0px;
+				left:-100px;
+			}
+					
+			
+				#deportes table{
+					width:850px;
+					text-align:center;
+				}
+		
+		#info{
+			width:1024px;			
+		}
+		
+			#corporativo{
+				width:1024px;
+				height:250px;
+				margin:60px 0 0 80px;				
+				background-image:url(../img/quienesSomos/screen.jpg);
+			}
+			
+				#corporativo table{
+					width:850px;
+					text-align:left;
+				}
+				
+					#corporativo table img{
+						padding:10px;
+					}
+			
+					#corporativo table p{
+						font-family:arial,helvetica,sans serif;
+						font-size:14px;
+						font-weight:200;
+						line-height:35px;												
+						font-variant:small-caps;
+						text-align:left;						
+						color:#666;
+						padding:0 20px 0 60px;
+					}
+				
+			#deportes{
+				width:1024px;
+				height:250px;
+				margin:60px 0 0 80px;				
+				background-image:url(../img/quienesSomos/screen.jpg);
+			}
+			
+				.obras_deportes{
+					position:relative;
+					top:0px;
+					left:-150px;
+				}
+			
+				#deportes table{
+					width:850px;
+					text-align:left;
+				}
+				
+					#deportes table img{
+						padding:10px;
+					}
+			
+					#deportes table p{
+						font-family:arial,helvetica,sans serif;
+						font-size:14px;
+						font-weight:200;
+						line-height:35px;												
+						font-variant:small-caps;
+						text-align:left;						
+						color:#666;
+						padding:0 20px 0 60px;
+					}
+				
+			#pinturas{
+				width:1024px;
+				height:250px;
+				margin:60px 0 0 80px;
+				background-image:url(../img/quienesSomos/screen.jpg);
+			}
+			
+				#pinturas table{
+					width:850px;
+				}
+				
+					#pinturas table img{
+						padding:10px;
+					}
+			
+					#pinturas table p{
+						font-family:arial,helvetica,sans serif;
+						font-size:14px;
+						font-weight:200;
+						line-height:35px;												
+						font-variant:small-caps;						
+						color:#666;
+						padding:0 20px 0 60px;
+					}
+				
+			#construccion{
+				width:1024px;
+				height:250px;
+				margin:60px 0 0 80px;
+				background-image:url(../img/quienesSomos/screen.jpg);
+			}
+			
+				#construccion table{
+					width:850px;
+				}
+				
+					#construccion table img{
+						padding:10px;
+					}
+			
+					#construccion table p{
+						font-family:arial,helvetica,sans serif;
+						font-size:14px;
+						font-weight:200;
+						line-height:35px;												
+						font-variant:small-caps;						
+						color:#666;
+						padding:0 20px 0 60px;
+					}
+				
+			#sedeportes{
+				width:1024px;
+				height:250px;
+				margin:60px 0 0 80px;
+				background-image:url(../img/quienesSomos/screen.jpg);
+			}
+			
+				#sedeportes table{
+					width:850px;
+				}
+				
+					#sedeportes table img{
+						padding:10px;
+					}
+			
+					#sedeportes table p{
+						font-family:arial,helvetica,sans serif;
+						font-size:14px;
+						font-weight:200;
+						line-height:35px;												
+						font-variant:small-caps;						
+						color:#666;
+						padding:0 20px 0 60px;
+					}
+					
+			
+			#tabs{
+				width:1024px;
+				margin:50px 0 0 0;	
+				text-align:center;
+			}
+
+				#tabs h3{
+					position:relative;
+					top:0px;
+					left:-220px;
+					margin:0 0 70px 0;
+				}
+				
+				#tabs_divisiones{
+					width:1024px;
+				}
+	
+					#tabs_divisiones ul{
+						list-style:none;
+					}
+		
+						#tabs_divisiones ul li{
+							width:200px;			
+							margin:5px;
+							padding:5px;
+							display:inline;							
+						}
+			
+								#tabs_divisiones ul li a{
+									font-family:arial,helvetica,san serif;
+									font-size:12px;
+									font-weight:bold;
+									color:#FFF;
+									padding:5px;
+									text-decoration:none;
+									background-color:#4AB7FF;
+									border-radius:5px;
+								}
+				
+				#tabs table{
+					width:1024px;
+					text-align:justify;
+					margin:30px 0 0 70px;
+					border:none;
+				}
+				
+					#tabs table p{
+						line-height:2;
+						color:#666;
+					}
+			

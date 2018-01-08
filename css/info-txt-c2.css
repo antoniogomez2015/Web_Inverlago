@@ -1,0 +1,159 @@
+body{	
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+:link{color:#999; text-decoration:none;}
+:visited{color:#333;}
+:active{color:#FFF;}
+:hover{color:black;}
+:focus{color:white;}
+
+	#wrapper{
+		width:1024px;
+		margin:auto;
+		text-align:center;		
+	}
+		
+		nav{
+			width:1024px;			
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		#id img{
+			border:0;
+			margin:0;			
+			}
+		
+		#modulo1{
+			width:1024px;
+			height:334px;
+			margin:0;
+			background-image:url(../img/top-inverlago-info.jpg);			
+			}
+			
+				#modulo1 .text{
+				position:relative;
+				left:-20px;
+				top:10px;
+			}
+			
+				#modulo1 .text p{
+					padding:3px;
+					font-size:12px;
+					font-weight:300;
+					line-height:30px;
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-105px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+					
+		.sub1{
+			position:absolute;
+			left:-10px;
+			top:70px;
+			}
+			
+		.sub2{
+			position:absolute;
+			left:50px;
+			top:180px;
+			}
+			
+		.intro-cat{
+			position:absolute;
+			left:220px;
+			top:255px;
+			}
+			
+			.intro-cat a{
+			font-size:18px;
+			font-family:arial;
+			font-weight:bold;
+			font-stretch:condensed;
+			
+						
+			}
+			
+		.sub3{
+			position:absolute;
+			left:430px;
+			top:180px;
+			}
+		
+		.sub4{
+			position:absolute;
+			left:482px;
+			top:70px;
+			}
+			
+		#modulo1 ul .noticias{
+			position:relative;
+			left:170px;
+			top:0;
+			margin:3px 5px 3px 5px;
+		}
+		
+			#modulo1 ul .noticias a:link{
+				font-size:20px;
+				font-family:arial;
+				font-weight:bold;
+				color:#FFF;
+				padding:5px 5px 35px 30px;
+			}
+
+	#main-info{
+		width:1024px;
+		height:1536px;
+		padding:0 0 0 10px;		
+		background-color:#999;
+	}
+	
+		#c1{
+			width:512px;
+			height:1536px;
+			float:left;
+			background-color:#F93;
+		}
+		
+		#c2{
+			width:512px;
+			height:1536px;
+			float:left;
+			background-color:#36C;
+		}
+		

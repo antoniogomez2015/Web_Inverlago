@@ -1,0 +1,139 @@
+
+h1{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-weight: normal;
+	font-size: 4em;
+	line-height: 1.2em;
+	margin: 0; padding: 20px 0;
+}
+
+h1 small{
+	display: block;
+	font-size: 0.5em;
+	color: #999;
+}
+
+/*imagen tumbs*/
+img{
+	border:none;
+}
+
+/*columnas de contenido de tumbs*/
+.columns{
+	width: 199px;
+	list-style: none;
+	margin: 0 auto; padding: 0;
+}
+
+.columns{
+	width: 199px;	
+	position: relative;
+}
+
+.columns:hover{
+	z-index: 99;		
+}
+
+.columns img{
+	position: relative;
+	filter: alpha(opacity=30);
+	opacity: 1;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";	
+}
+
+.columns:hover img{
+	z-index: 999;
+	filter: alpha(opacity=100);
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+/*hover con info*/
+.columns .info{
+	position: absolute;
+	left: -10px; top: -10px;
+	padding: 10px 10px 10px;
+	width: 300px;
+	height:300px;
+	display: none;
+	background: #fff;
+	font-size:7PX;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 14px;
+	-webkit-box-shadow:-3px -2px 10px rgba(0,0,0,0.3);
+	-moz-box-shadow:-3px -2px 10px rgba(0,0,0,0.3);
+	-ms-box-shadow:-3px -2px 10px rgba(0,0,0,0.3);
+	-o-box-shadow:-3px -2px 10px rgba(0,0,0,0.5);
+	opacity:1;	
+}
+
+.info{
+	-webkit-transition:opacity, 0.4s;
+	-moz-transition:opacity, 0.4s;;
+	-o-transition:opacity, 0.4s;;
+	opacity:0;	
+}
+
+.columns:hover .info{
+	display: block;	
+	opacity:1;		
+}
+
+/*título descriptivo*/
+.columns h2{
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0;
+	padding:15px 0 30px 80px;
+	color:#09F;
+}
+
+.logo{
+	width:200px;
+	height:76px;
+	padding:70px 0 0 33px;
+}
+
+/*texto de desarrollo*/
+.columns p{
+	width:270px;
+	padding:15px 0 0 15px; 
+	margin: 0; 
+	font-family:arial,helvetica,sans serif;
+	font-size:12px;
+	font-weight:bold;
+	line-height:20px;
+	color:#999;
+	text-align:center;	
+}
+
+
+.u71nu56xdm3{ 
+	display:inline !important; 
+	list-style:none; 
+	text-align:left; 
+	float:none; 
+	padding:0; 
+	margin:0; 
+	border:1px solid transparent; 
+	border-bottom:1px solid;  
+	text-decoration:underline; 
+	color:#009900; 
+	font-weight:normal; 
+	cursor:pointer; 
+}
+
+
+adbox{ 
+	padding:0 !important; 
+	margin:0 !important; 
+	display:block; 
+	xwidth:400px; 
+	xheight:200px;  
+	z-index:2000000000; 
+	text-decoration:none !important;
+}
+

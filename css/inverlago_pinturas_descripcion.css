@@ -1,0 +1,347 @@
+body, div{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+/**proof sidebar right*/
+
+a{
+	font-family:arial,hevetica,sans serif;
+	color:#06F;
+}
+
+h3{
+	font-family:arial,helvetica,sans serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#09F;
+	padding:30px 0 0 435px;
+}
+
+h4{
+	font-family:arial,helvetica,sans serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#09F;
+	padding:0 0 0 5px;
+}
+
+	#wrapper{
+		width:1030px;
+		margin:auto;
+	}
+			
+		#campo{
+			width:1024px;
+			height:300px;
+		}
+			
+		#divisiones{
+			width:1024px;
+			height:40px;
+		}
+		
+			#divisiones table{				
+				margin:10px 0 0 110px;				
+			}
+			
+				#divisiones table th{
+					margin:0 20px 0 20px;													
+				}
+				
+					#divisiones table a{
+						font-family:arial, helvetica,sans serif;
+						font-size:10px;
+						font-weight:bold;
+						color:#06C;
+						padding:0 0 20px 20px;
+					}
+					
+			#info_corporativo{
+				width:250px;
+				height:190px;
+				background-color:rgba(0,0,0,0.9);
+				-webkit-border-radius:15px;
+				-moz-border-radius:15px;
+				z-index:10000;
+			}
+			
+		nav{
+			width:1024px;
+			margin:40px 0 0 0;			
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		#id img{
+			border:0;
+			margin:0;
+			z-index:0;			
+			}
+			
+		#menu ul{
+			list-style-type:none;
+		}
+		
+			#menu ul li{
+				width:150px;				
+			}
+			
+				#menu ul li a{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					font-weight:bold;
+					color:#06F;
+					padding:0 0 5px 0;
+				}
+		
+		#modulo1{
+			width:1024px;
+			height:334px;
+			margin:0;
+			background-image:url(../img/quienesSomos/modulo_main2.jpg);			
+			}
+			
+				#modulo1 .text{
+					position: relative;
+					left: -20px;
+					top: 0px;
+				}
+			
+				#modulo1 .text p{
+					padding:10px 5px 5px 0px;
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:300;
+					line-height:30px;					
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-170px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+								
+		.sub1{
+			position: absolute;
+			left: 0px;
+			top: 70px;
+			text-align: center;
+		}
+			
+				.sub1 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub1 a:hover{
+					color:#999;
+				}
+			
+		.sub2{
+			position:absolute;
+			left:70px;
+			top:180px;
+		}
+			
+				.sub2 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub2 a:hover{
+					color:#999;
+				}
+			
+		.sub3{
+			position: absolute;
+			left: 235px;
+			top: 235px;
+		}
+			
+				.sub3 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub3 a:hover{
+					color:#999;
+				}
+			
+			
+		.sub4{
+			position: absolute;
+			left: 400px;
+			top: 190px;
+		}
+			
+				.sub4 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:11px;
+					color:#06F;
+				}
+				
+				.sub4 a:hover{
+					color:#999;
+				}			
+		
+		.sub5{
+			position: absolute;
+			left: 485px;
+			top: 70px;
+		}
+			
+				.sub5 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub5 a:hover{
+					color:#999;
+				}
+			
+		#modulo1 .noticias{
+			position: relative;
+			left: 930px;
+			top: -170px;
+			margin: 3px 5px 3px 5px;
+		}
+		
+			#modulo1 .noticias a{
+				font-family:arial,helvetica,sans serif;
+				font-size:16px;
+				color:#FFF;
+			}
+			
+				#modulo1 .noticias a:hover{
+					color:#039;
+				}
+		
+			
+		#modulo1 table{
+			position:relative;
+			top:-160px;
+			left:40px;
+			transition:transform 0.6s;
+			-moz-transition:-moz-transform 0.6s;
+			-o-transition:-o-transform 0.4s;
+			-ms-transition:-ms-transform 0.6s;
+			-webkit-transition:-webkit-transform 0.6s;
+		}
+		
+			#modulo1 table .facebook img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/facebook-activo.png);
+			}
+			
+			#modulo1 table .twitter img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/twitter-activo.png);
+			}
+			
+			#modulo1 table .youtube img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/youtube-activo.png);
+			}
+			
+		#info{
+			width:1024px;
+			margin:10px 0 0 105px;			
+		}
+		
+			#corporativo{
+				width:1024px;
+			}
+			
+				.logo_pinturas{
+					position:relative;
+					top:20px;
+					left:310px;
+				}
+				
+				.titulo{
+					position:relative;
+					top:0px;
+					left:-125px;
+				}
+			
+				#corporativo table{
+					width:850px;
+					text-align:left;
+					font-size:14px;
+					font-family:arial,helvetica sans serif;
+				}
+				
+					#corporativo table tr{
+						height:30px;												
+					}
+					
+						#corporativo table th{
+							font-size:14px;
+							font-weight:bold;
+							padding:5px 0 10px 0;
+						}
+						
+						#corporativo table th, td{
+							padding:5px 0 5px 25px;
+						}
+						
+						.tipo1{
+							background-color:#EEE;
+						}
+						
+						.tipo2{
+							background-color:#F5F5F5;
+						}
+						
+						#corporativo table td{
+							font-size:12px;
+						}
+		
+		

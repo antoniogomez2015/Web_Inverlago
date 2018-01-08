@@ -1,0 +1,79 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:arial,helvetica,sans serif;
+	font-weight:lighter;
+}
+
+	html,body{
+		text-align:center;
+		background-color:#CCC;
+	}
+	
+		#wrapper{
+			width:1024px;
+			margin:0 auto;
+		}
+		
+			#formulario{
+				width:400px;
+				height:600px;
+				background-color:#FFF;
+				margin:auto;
+				overflow:hidden;
+			}
+			
+				#titulo{
+					font-size:1.6em;
+					text-align:center;
+					margin-top:40px;
+					color:grey;
+				}
+				
+				/*controlador css3, que permite setear todas las propiedades similares en un solo controlador integrado*/
+				input[type="text"],input[type="email"],textarea{
+					width:330px;
+					height:35px;					
+					margin-top:20px;
+					padding-left:15px;
+					font-size:1.1em;
+					outline:none;
+					border:0px;
+					background-color:#999;
+					border-radius:8px;	
+					color:#fff;		
+					
+				}
+				
+				textarea{
+					min-width:330px;
+					max-width:330px;
+					min-height:80px;
+					padding-top:10px;
+				}
+				
+				input[type="submit"]{
+					width:350px;
+					height:50px;
+					outline:none;
+					border:0px;
+					background-color:#0CF;
+					margin-top:15px;
+					border-radius:8px;
+					font-size:24px;
+					color:#FFF;
+					-webkit-box-shadow:0px 5px 0px #666666;
+					-webkit-transition:background-color 0.5s;
+					cursor:pointer;					
+				}
+				
+					input[type="submit"]:hover{
+						background-color:#09C;
+					}
+					
+			#black{
+				position:absolute;
+				width:100%;
+				height:100%;
+				background-color: rgba(0, 0, 0, 0.7);
+			}

@@ -1,0 +1,61 @@
+
+	<style type="text/css">
+
+		/*clases de estilos para los proveedores específicos*/
+/*
+		.horizontal{		
+			background-color: #E28238;
+			color: #E28238;
+		}*/
+
+	</style>
+
+	<script type="text/javascript">
+
+		$(document).ready(function(){
+			/*cerrar ventanas de tabs*/
+			$('.cerrar').click(function(){
+				$('#containt').hide('slow');
+			});
+
+			/*estilos para los proveedores específicos
+			$('#grama #proveedores .top').addClass("horizontal");*/
+		});	
+
+	</script>
+	
+
+	<span class="cerrar"><a href="#"><img src="img/cerrar.png"></a></span>
+	
+	<div id="grama">
+
+		<h2>GRAMA ARTIFICIAL</h2>
+
+		<h3>Deportes con Grama Artificial</h3>
+
+		<ul>
+			<li><a href="proveedor_fieldTurf.php">Beisbol</a></li>
+			<li><a href="proveedor_fieldTurf.php">F&uacute;tbol</a></li>
+			<li><a href="proveedor_fieldTurf.php">F&uacute;tbol Sala</a></li>
+			<li><a href="proveedor_fieldTurf.php">Hockey</a></li>
+		</ul>
+
+		<div id="proveedores">
+
+			<h3>Proeedores disponibles para Sistemas de Gramas</h3>
+
+			<table>
+				<tr>
+					<th class="top"><a href="proveedor_fieldTurf.php">Fieldturf</a></th>
+					<th class="top"><a href="proveedor_trackteckRMD.php">TrackteckRMD</a></th>
+					<th class="top"><a href="proveedor_taishan.php">Taishan</a></th>
+				</tr>
+
+				<tr>
+					<td>(Norte Americanas)</td>
+					<td>(Asi&aacute;ticas)</td>
+					<td>(Asi&aacute;ticas)</td>
+				</tr>
+			</table>
+		</div>
+	</div>

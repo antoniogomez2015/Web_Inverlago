@@ -1,0 +1,713 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"con",
+				"containt2"
+			],
+			[
+				"conta",
+				"containt"
+			],
+			[
+				"cont",
+				"containt"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pro",
+				"proveedores"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1271,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header_estandar.php",
+			"settings":
+			{
+				"buffer_size": 12444,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "proyectos.php",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/global.css",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/inverlago_construccion.css",
+			"settings":
+			{
+				"buffer_size": 12343,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tabs.php",
+			"settings":
+			{
+				"buffer_size": 5058,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/functions.js",
+			"settings":
+			{
+				"buffer_size": 1379,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Signos_de_escritura.php",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package control ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/inverlago",
+		"/C/xampp/htdocs/inverlago/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/inverlago/video_corporativos.php",
+		"/C/xampp/htdocs/inverlago/redes.php",
+		"/C/xampp/htdocs/inverlago/ubicacion.php",
+		"/C/xampp/htdocs/inverlago/quienesomos.php",
+		"/C/xampp/htdocs/inverlago/identidadCorporativa.php",
+		"/C/xampp/htdocs/inverlago/css/inverlago_quienesomos.css",
+		"/C/xampp/htdocs/inverlago/contacto.php",
+		"/C/xampp/htdocs/inverlago/proveedoresInverlago.php",
+		"/C/xampp/htdocs/inverlago/contruccion.php",
+		"/C/xampp/htdocs/inverlago/css/productos_disponibles.css",
+		"/C/xampp/htdocs/inverlago/deportes.php",
+		"/C/xampp/htdocs/inverlago/css/inverlago_corporativo.css",
+		"/C/xampp/htdocs/inverlago/css/inverlago_deportes.css",
+		"/C/xampp/htdocs/inverlago/css/global.css",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/incluir_Css.html",
+		"/C/xampp/htdocs/inverlago/css/proveedoresInverlago.css",
+		"/C/xampp/htdocs/inverlago/css/tabs.css",
+		"/C/xampp/htdocs/inverlago/modulo2_proveedores.php",
+		"/C/xampp/htdocs/inverlago/index.php",
+		"/C/xampp/htdocs/inverlago/modulo1_proveedores.php",
+		"/C/xampp/htdocs/inverlago/css/proyectos_imagenes.css",
+		"/C/xampp/htdocs/inverlago/modulo2_proyectos_imagenes.php",
+		"/C/xampp/htdocs/inverlago/proyectos_imagenes.php",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/centro_de_ensenanza_virtual/EVENTOS_C_event_stopPropagation_(limitar_propagacion_de_eventos).html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jqueryCycleAll/consideraciones_generales.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/Hover_system/InfoHover_Avanzado/infohoverAvanzado.html",
+		"/C/xampp/htdocs/inverlago/load_hover_equipamiento.html",
+		"/C/xampp/htdocs/inverlago/modulo2_estandar.php",
+		"/C/xampp/htdocs/inverlago/modulo3_estandar.php",
+		"/C/xampp/htdocs/inverlago/main.php",
+		"/C/xampp/htdocs/inverlago/load_hover_grama.html",
+		"/C/xampp/htdocs/inverlago/css/ubicacion.css",
+		"/C/xampp/htdocs/inverlago/css/contacto.css",
+		"/C/xampp/htdocs/inverlago/css/identidadCorporativa.css",
+		"/C/xampp/htdocs/inverlago/css/info-video-c1-pinturas.css",
+		"/C/xampp/htdocs/inverlago/css/redes.css",
+		"/C/xampp/htdocs/inverlago/css/inverlago_construccion.css",
+		"/C/xampp/htdocs/inverlago/pinturas.php",
+		"/C/xampp/htdocs/inverlago/css/inverlago_pinturas_industrias.css",
+		"/C/xampp/htdocs/inverlago/css/inverlago_proyectos.css",
+		"/C/xampp/htdocs/inverlago/header_estandar.php",
+		"/C/xampp/htdocs/inverlago/modulo3_deportes.php",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/animate.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/slider_Uo-Down.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/transform.html",
+		"/C/xampp/htdocs/inverlago/hover_sidebaright.php",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/centro_de_ensenanza_virtual/EVENTOS_C_Hover_(mouse_over).html",
+		"/C/xampp/htdocs/inverlago/js/functions.js",
+		"/C/xampp/htdocs/inverlago/load_canchas_deportivas.html",
+		"/C/xampp/htdocs/inverlago/tabs.php",
+		"/C/xampp/htdocs/inverlago/proveedor_connor.php",
+		"/C/xampp/htdocs/inverlago/css/proveedores_globales.css",
+		"/C/xampp/htdocs/inverlago/load_grama_artificial.html",
+		"/C/xampp/htdocs/paginas_desde_cero_jj/menu_superior.html",
+		"/C/xampp/htdocs/Abisalca/load_5.html",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_TR_parent_(elementos_padres).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_TR_parent_(elementos_padres).php",
+		"/C/xampp/htdocs/inverlago/Signos_de_escritura.php",
+		"/C/xampp/htdocs/inverlago/load_equipamiento_deportivo.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/jquery/sintaxis/de_la_web/1_cargar_contenido_dentro_de_contenedor.php",
+		"/C/xampp/htdocs/inverlago/deportes_desarrollo.php",
+		"/C/xampp/htdocs/inverlago/modulo2_pinturas_descripcion.php",
+		"/C/xampp/htdocs/Abisalca/Signos_de_escritura.php",
+		"/C/xampp/htdocs/inverlago/css/tabs,css",
+		"/C/xampp/htdocs/inverlago/js/sidebar_right_info.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/14_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/14_E_gestores_de_eventos.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/14_E_gestores_de_eventos.css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/proyecto_sublime_text.sublime-project",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/13_TR_eq_(indice_seleccionado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/12_TR_gt_(exepcion_de_indice).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/11_TR_find_(encontrar).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/5_SP_eq_(selector_de_instancias).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/13_TR_eq_(indice_seleccionado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/13_TR_eq_(indice_seleccionado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/12_TR_gt_(exepcion_de_indice).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/12_TR_gt_(exepcion_de_indice).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/13_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/13_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/12_TR_gt_(indices).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/12_TR_gt_(indices).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/11_TR_find_(encontrar).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/11_TR_find_(encontrar).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/10_TR_not_(excluyente).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/10_TR_not_(excluyente).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/10_TR_not_(excluyente).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/6_SP_oldd_e_even_(selector_par_e_impar).php",
+		"/C/xampp/htdocs/inverlago/modulo2_proveedores_connor_body.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/10_TR_no_(excluyente).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/10_TR_nor_(excluyente).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_TR_parent_(elementos_padres).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/A_uso_de_selectores_combinados.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/A_uso_de_selectores_combinados.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/A_uso_de_selectores_combinados.css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/7_SP_contains_(selector_de_texto).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/7_SP_contains_(selector_de_texto).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/4_selectores_personalizados.php",
+		"/C/xampp/htdocs/inverlago/modulo1_proveedores_heather.php",
+		"/C/xampp/htdocs/inverlago/modulo1_identidadCorporativa.php",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/proof.sublime-snippet",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/inverlago/modulo3_videos_videos.php",
+		"/C/xampp/htdocs/inverlago/modulo4_pinturas.php",
+		"/C/xampp/htdocs/inverlago/modulo4_deportes.php",
+		"/C/xampp/htdocs/Abisalca/demo.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "header_estandar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "proyectos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/global.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/inverlago_construccion.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								1089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tabs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Signos_de_escritura.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "proveedor_connor.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

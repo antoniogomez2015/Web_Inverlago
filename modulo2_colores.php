@@ -1,0 +1,6 @@
+	
+    	<!---->
+        <section id="pinturas">
+        
+        	
+        </section>

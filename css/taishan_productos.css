@@ -1,0 +1,524 @@
+
+.taishan img{
+		width: 350px;
+		height: 180px;
+		margin: 130px 0px 0px 0px;
+	}	
+	
+
+.taishan_low img{
+		width: 230px;
+		height: 230px;
+		margin: 40px 20px 0px 40px;
+		float: left;
+	}
+
+		.taishan_low h2{
+		font-family: arial,helvetica,sans serif;
+		font-size: 18px;
+		margin: 40px 0 0 90px;
+		float: left;
+	}
+
+		.taishan_low p{
+			width: 370px;
+			font-family: arial,helvetica,sans serif;
+			font-size: 14px;
+			line-height: 25px;
+			font-weight: bold;
+			text-align: justify;
+			margin: 20px 0 0 90px;		
+			float: left;
+		}
+
+
+/*productos*/
+
+/*Connor /-------------------------------------------------------------------------*/
+
+/*habladores de 1 producto (widescreen)*/
+.hablador_D1_Width{
+	width: 600px;
+	height: 630px;	
+	background-image:url(../img/proveedores/screen_c4.png);
+	margin: 30px;
+	float: left;
+}
+
+	.hablador_D1_Width #top{
+		width: 600px;
+		height: 70px;		
+		float: left;						
+	}
+
+		.hablador_D1_Width h2{
+			font-family: arial, helvetica,sans-serif;
+			font-size: 24px;			
+		}
+
+		.hablador_D1_Width h3{
+			font-family: arial, helvetica,sans-serif;
+			font-size: 18px;			
+			font-weight: bold;
+			color: #272822;
+		}
+
+	.hablador_D1_Width #images{
+		width: 550px;
+		height: 240px;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 14px;
+		color: #666;
+		margin: 30px 0px 0px 20px;		
+		float: left;			
+	}
+
+	.hablador_D1_Width #info{
+		width: 515px;
+		height: 180px;
+		margin: 10px 0 0 35px;
+		text-align: justify;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 12px;
+		line-height: 20px;		
+		float: left;
+	}
+
+		.hablador_D1_Width #info h3{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			color: #333;
+		}
+
+		.hablador_D1_Width #info p{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			line-height: 20px;			
+			color: #333;
+		}		
+
+	.hablador_D1_Width #footer{
+		width: 600px;
+		height: 25px;
+		margin: 50px 0px 0px 0px;		
+		float: left;				
+	}
+
+		.hablador_D1_Width #footer a{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 16px;
+			font-weight: bold;;
+			color: #1046a8;
+		}
+
+			.hhablador_D1_Width #footer a:hover{
+				color: #3eb1f9;
+			}
+
+/*habladores de 2 productos*/
+.hablador_D2{
+	width: 600px;
+	height: 630px;	
+	background-image:url(../img/proveedores/screen_c4.png);
+	margin: 30px;
+	float: left;
+}
+
+	.hablador_D2 #top{
+		width: 600px;
+		height: 70px;		
+		float: left;						
+	}
+
+		.hablador_D2 h2{
+			font-family: arial, helvetica,sans-serif;
+			font-size: 24px;
+		}
+
+		.hablador_D2 h3{
+			font-family: arial, helvetica,sans-serif;
+			font-size: 18px;
+		}
+
+	.hablador_D2 #images{
+		width: 550px;
+		height: 240px;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 14px;
+		color: #666;
+		margin: 30px 0px 0px 35px;		
+		float: left;			
+	}
+
+		.hablador_D2 #interiores{
+			width: 250px;
+			height: 187px;
+			margin: 5px;
+			float: left;
+		}
+
+		.hablador_D2 #exteriores{
+			width: 250px;
+			height: 187px;
+			margin: 5px;
+			float: left;
+		}
+
+		.hablador_D2 h3{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			color: #333;
+		}
+
+	.hablador_D2 #info{
+		width: 515px;
+		height: 180px;
+		margin: 10px 0 0 35px;
+		text-align: justify;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 12px;
+		line-height: 20px;		
+		float: left;
+	}
+
+		.hablador_D2 #info h3{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			color: #333;
+		}
+
+		.hablador_D2 #info p{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			line-height: 20px;			
+			color: #333;
+		}		
+
+	.hablador_D2 #footer{
+		width: 600px;
+		height: 25px;
+		margin: 50px 0px 0px 0px;		
+		float: left;				
+	}
+
+		.hablador_D2 #footer a{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 16px;
+			font-weight: bold;;
+			color: #1046a8;
+		}
+
+			.hablador_D2 #footer a:hover{
+				color: #3eb1f9;
+			}
+
+/*hablador de 3 productos*/
+.hablador_D3{
+	width: 600px;
+	height: 630px;	
+	background-image:url(../img/proveedores/screen_c4.png);
+	margin: 180px 10px 10px 10px;	
+	text-align: center;
+	float: left;
+}
+
+	.hablador_D3 #top{
+		width: 600px;
+		height: 70px;		
+		float: left;						
+	}
+
+		.hablador_D3 #top h2{
+			font-family: arial, helvetica,sans-serif;
+			font-size: 24px;
+		}
+
+		.hablador_D3 #top h3{
+			font-family: arial, helvetica,sans-serif;
+			font-size: 18px;
+		}
+
+	.hablador_D3 #images{
+		width: 570px;
+		height: 240px;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 14px;
+		color: #666;
+		margin: 30px 0px 0px 17px;		
+		float: left;			
+	}
+
+		.hablador_D3 #images #img1{
+			width: 185px;
+			height: 205px;
+			margin: 0px;
+			float: left;
+		}
+
+		.hablador_D3 #images #img2{
+			width: 185px;
+			height: 205px;
+			margin: 0px;
+			float: left;
+		}
+
+		.hablador_D3 #images #img3{
+			width: 185px;
+			height: 205px;
+			margin: 0px;
+			float: left;
+		}
+
+		.hablador_D3 h3{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			color: #333;
+		}
+
+	.hablador_D3 #info{
+		width: 515px;
+		height: 180px;
+		margin: 10px 0 0 35px;
+		text-align: justify;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 12px;
+		line-height: 20px;		
+		float: left;
+	}
+
+		.hablador_D3 #info h3{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			color: #333;
+		}
+
+		.hablador_D3 #info p{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 14px;
+			line-height: 20px;
+			color: #333;
+		}		
+
+	.hablador_D3 #footer{
+		width: 600px;
+		height: 25px;
+		margin: 50px 0px 0px 0px;		
+		float: left;				
+	}
+
+		.hablador_D3 #footer a{
+			font-family: arial,helvetica,sans-serif;
+			font-size: 16px;
+			font-weight: bold;;
+			color: #1046a8;
+		}
+
+			.hablador_D3 #footer a:hover{
+				color: #3eb1f9;
+			}	
+
+
+/*sección web*/
+#web{
+	width: 650px;
+	height: 220px;	
+	background-image: url(../img/proveedores/screen_c3.png);
+	margin: 50px 200px 0px 0px;	
+	text-align: left;
+	float: right;
+}
+
+	#web h2{
+		font-family: arial,helvetica,sans-serif;
+		font-size: 18px;
+		font-weight: bold;
+		color: #333;
+		margin: 20px 0 10px 60px;
+	}
+
+	#web ul{
+		list-style: none;
+		margin: 10px 0px 0px 60px;
+	}
+
+		#web ul li{
+			margin: 5px 0 5px 5px;
+		}
+
+			#web ul li a{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#web ul li a:hover{
+					color: #3eb1f9;
+				}
+
+
+/*sección media ó de videos*/
+#media{
+	width: 600px;
+	height: 630px;
+	background-image: url(../img/proveedores/screen_c4.png);
+	margin: 50px 10px 10px 10px;
+	text-align: center;
+	float: left;
+}
+
+	#media h2{
+		font-family: arial,helvetica,sans-serif;
+		font-size: 24px;
+		color: #333;
+		margin: 20px 0px 0px 0px;
+	}
+
+	#media h3{
+		font-family: arial,helvetica,sans-serif;
+		font-size: 16px;
+		color: #333;
+		margin: 10px 0px 10px 0px;
+	}
+
+	#media span{
+
+	}
+
+	#media p{
+		width: 460px;
+		font-family: arial,helvetica,sans-serif;
+		font-size: 14px;
+		font-weight: 22px;
+		text-align: justify;
+		color: #333;
+		margin: 0px 0px 0px 70px;
+	}
+
+
+/*sección de catálogos de los productos disponibles*/
+#catalogos{
+	width: 600px;
+	height: 630px;	
+	background-image: url(../img/proveedores/screen_c4.png);
+	margin: 10px;
+	float: left;
+	text-align: center;
+}
+
+		#catalogos table{
+			width: 530px;
+			text-align: center;
+			margin: 0px 0px 0px 30px;
+			padding: 0px;
+		}
+
+				#catalogos table h2{
+					font-family: arial,helvetica,sans-serif;
+					font-size: 18px;
+					color:#333;
+					margin: 20px 0px 20px 10px;
+					text-align: center;
+				}
+
+				#catalogos table h3{
+					font-family: arial,helvetica,sans-serif;
+					font-size: 16px;
+					font-weight: bold;
+					color:#333;					
+				}
+
+				#catalogos ul{
+					list-style: none;
+				}
+
+				#catalogos ul li{
+					font-family: arial,helvetica,sans-serif;
+					font-size: 14px;
+					font-weight: bold;
+					margin: 0px 10px 0px 10px;
+					color: #333;
+
+				}
+
+				#catalogos ul li a{
+					font-family: arial,helvetica,sans-serif;
+					font-size: 14px;
+					color: blue;
+				}
+
+						#catalogos ul li a:hover{
+							font-family: arial,helvetica,sans-serif;
+							font-size: 14px;
+							color: #666;
+						}
+
+				#catalogos table td, th{
+					margin: 0px;
+					padding: 0px;					
+				}
+
+				#catalogos .caps{
+					background-color: rgba(80, 80, 30, 0.2);
+				}
+
+				#catalogos .odd{
+					background-color: rgba(20, 140, 200, 0.2);
+				}
+
+				#catalogos .even{
+					background-color: rgba(30, 220, 100, 0.1);
+				}
+
+
+/*screen para contenido de especialidades de los proveedores*/
+
+#especialidades{
+	width: 800px;
+	position: absolute;
+	top: 500px;
+	margin: 0px 0px 0px 100px;
+	border-radius: 15px;
+	box-shadow: 3px 3px 3px;
+	background: #919191; /* Old browsers */
+	background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */
+	display: none;
+}
+
+	#especialidades .cerrar{
+		float: right;
+	}
+
+	#especialidades ul{
+		list-style: none;
+	}
+
+		#especialidades ul li{
+			display: inline-block;
+			text-decoration: none;
+			padding: 3px 10px 3px 10px;
+			margin: 10px;
+			background-color: #fff;
+			border-radius: 10px;
+		}
+
+			#especialidades ul li a{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #666;
+			}
+
+				#especialidades ul li a:hover{
+					color: #B1E2ED
+				}
+
+				#especialidades ul li:hover{
+					background-color: #31D3F0
+				}

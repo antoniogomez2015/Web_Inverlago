@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"miEdad"
+			],
+			[
+				"Mi",
+				"MiNombreEs"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sli",
+				"sliders"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"conta",
+				"containt2"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"tri",
+				"trigger_error"
+			],
+			[
+				"mysql_",
+				"mysql_error"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"fe",
+				"fecha_1"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"jquery",
+				"jquery_ui"
+			],
+			[
+				"scro",
+				"scrollUp"
+			],
+			[
+				"scr",
+				"scrollUp"
+			],
+			[
+				"ir",
+				"ir_arriba"
+			],
+			[
+				"ven",
+				"ventana_modal"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"rota",
+				"rotatey"
+			],
+			[
+				"rotate",
+				"rotatex"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pro",
+				"proveedores"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1774,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tabs.php",
+			"settings":
+			{
+				"buffer_size": 2571,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DDD/enviar_correo_por_email.html",
+			"settings":
+			{
+				"buffer_size": 1474,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/functions.js",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/tabs.css",
+			"settings":
+			{
+				"buffer_size": 14752,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/inverlago_corporativo.css",
+			"settings":
+			{
+				"buffer_size": 14990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hover_sidebaright.php",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "load_hover_grama.html",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package control ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/inverlago",
+		"/C/xampp/htdocs/inverlago/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso_php_comunidadPhp/consideraciones_basicas.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/CSS_integrado.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/HTML_integrado.php",
+		"/C/xampp/htdocs/inverlago/Signos_de_escritura.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/CONDICIONALES_if.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/OPER_operadores_incremento.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/OPER_operadores_logicos.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/OPER_operadores_comparacion.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/OPER_comparacion.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/SIGNOS_aritmeticos.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/2_BUILD_arreglos.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/2_SIGNOS_concatenacion.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/1_SIGNOS_asignacion.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/1_BUILD_varaibles.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/2_varaibles.php",
+		"/C/xampp/htdocs/curso_php_comunidadPhp/1_instruccion_echo.php",
+		"/C/xampp/htdocs/inverlago/DDD/enviar.php",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/slider_con_radio_button.html",
+		"/C/xampp/htdocs/inverlago/DDD/enviar_correo.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/php/enviar_formularion_ha_basesDeDatos/enviar_datos_de_formulario.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/slider_FadeIn-Out.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/slider_Uo-Down.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/00/slider/index.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/ir_arriba.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/HTML5/meta_liquid_mobile_responsive.html",
+		"/C/xampp/htdocs/inverlago/DDD/conexion.php",
+		"/C/xampp/htdocs/inverlago/DDD/enviar_datos_de_formulario.html",
+		"/C/xampp/htdocs/inverlago/DDD/alter/Tutorial_Ajax-Tuwebonada.com/ajax/envia.php",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/fechas_formularios.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/HTML5/fechas_formularios.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/Librerias/jquery_ui/jquery-ui/jquery-ui.theme.min.css",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/Librerias/jquery_ui/jquery-ui/jquery-ui.css",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/Librerias/jquery_ui/jquery-ui-1.11.2.custom/jquery-ui.theme.min.css",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/Librerias/jquery_ui/jquery-ui-1.11.2.custom/jquery-ui.theme.css",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/ventana_modal.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/HTML5/fonts_html.html",
+		"/C/xampp/htdocs/Responsive Design_jj/intex.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/HTML5/video.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/shadows.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/Responsive_Design_Mobile_First.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/transform.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/animate.html",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/20_C_condicional_if().js",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/hover_fijo.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/animaciones_estandar.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/CSS-3/compatibilidad_con_navegadores_antoguios.html",
+		"/C/xampp/htdocs/inverlago/load_grama_artificial.html",
+		"/C/xampp/htdocs/inverlago/modulo2_estandar.php",
+		"/C/xampp/htdocs/inverlago/index.php",
+		"/C/xampp/htdocs/inverlago/load_hover_grama.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/hover_fijo.php",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/Componentes_web_Build-In/SOURCES/jquery/hover_fijo",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/13_TR_eq_(indice_seleccionado).js",
+		"/C/xampp/htdocs/inverlago/modulo2_proveedores_connor_body.php",
+		"/C/xampp/htdocs/inverlago/css/tabs.css",
+		"/C/xampp/htdocs/inverlago/load_connor_madera.html",
+		"/C/xampp/htdocs/inverlago/header_estandar.php",
+		"/C/xampp/htdocs/inverlago/load_canchas_deportivas.html",
+		"/C/xampp/htdocs/inverlago/tabs.php",
+		"/C/xampp/htdocs/inverlago/css/inverlago_corporativo.css",
+		"/C/xampp/htdocs/inverlago/proveedor_connor.php",
+		"/C/xampp/htdocs/inverlago/css/proveedores_globales.css",
+		"/C/xampp/htdocs/paginas_desde_cero_jj/menu_superior.html",
+		"/C/xampp/htdocs/Abisalca/load_5.html",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_TR_parent_(elementos_padres).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_TR_parent_(elementos_padres).php",
+		"/C/xampp/htdocs/inverlago/load_equipamiento_deportivo.html",
+		"/C/xampp/htdocs/CRECIMIENTO_TONY/jquery/sintaxis/de_la_web/1_cargar_contenido_dentro_de_contenedor.php",
+		"/C/xampp/htdocs/inverlago/deportes_desarrollo.php",
+		"/C/xampp/htdocs/inverlago/modulo2_pinturas_descripcion.php",
+		"/C/xampp/htdocs/Abisalca/Signos_de_escritura.php",
+		"/C/xampp/htdocs/inverlago/css/tabs,css",
+		"/C/xampp/htdocs/inverlago/js/sidebar_right_info.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/14_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/14_E_gestores_de_eventos.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/14_E_gestores_de_eventos.css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/proyecto_sublime_text.sublime-project",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/13_TR_eq_(indice_seleccionado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/12_TR_gt_(exepcion_de_indice).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/11_TR_find_(encontrar).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/5_SP_eq_(selector_de_instancias).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/13_TR_eq_(indice_seleccionado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/12_TR_gt_(exepcion_de_indice).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/12_TR_gt_(exepcion_de_indice).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/13_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/13_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/12_TR_gt_(indices).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/12_TR_gt_(indices).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/11_TR_find_(encontrar).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/11_TR_find_(encontrar).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/10_TR_not_(excluyente).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/10_TR_not_(excluyente).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/10_TR_not_(excluyente).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/6_SP_oldd_e_even_(selector_par_e_impar).php",
+		"/C/xampp/htdocs/inverlago/modulo2_proveedores.php",
+		"/C/xampp/htdocs/inverlago/proveedoresInverlago.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/10_TR_no_(excluyente).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/10_TR_nor_(excluyente).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_TR_parent_(elementos_padres).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/A_uso_de_selectores_combinados.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/A_uso_de_selectores_combinados.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/A_uso_de_selectores_combinados.css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/7_SP_contains_(selector_de_texto).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/7_SP_contains_(selector_de_texto).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/4_selectores_personalizados.php",
+		"/C/xampp/htdocs/inverlago/modulo1_proveedores_heather.php",
+		"/C/xampp/htdocs/inverlago/modulo1_identidadCorporativa.php",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/proof.sublime-snippet",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/inverlago/pinturas.php",
+		"/C/xampp/htdocs/inverlago/modulo3_videos_videos.php",
+		"/C/xampp/htdocs/inverlago/modulo4_pinturas.php",
+		"/C/xampp/htdocs/inverlago/modulo4_deportes.php",
+		"/C/xampp/htdocs/Abisalca/demo.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tabs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								632
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "DDD/enviar_correo_por_email.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/tabs.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/inverlago_corporativo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10546,
+								10546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 30.0,
+						"translation.y": 9574.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "hover_sidebaright.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "load_hover_grama.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "/C/xampp/htdocs/centro_de_ensenanza_virtual/proyecto_sublime_text.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

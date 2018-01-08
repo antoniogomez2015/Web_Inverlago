@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pro",
+				"proveedores"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1548,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package control ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/inverlago"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/14_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/14_E_gestores_de_eventos.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/14_E_gestores_de_eventos.css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/proyecto_sublime_text.sublime-project",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/13_TR_eq_(indice_seleccionado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/12_TR_gt_(exepcion_de_indice).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/11_TR_find_(encontrar).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/5_SP_eq_(selector_de_instancias).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/13_TR_eq_(indice_seleccionado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/13_TR_eq_(indice_seleccionado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/12_TR_gt_(exepcion_de_indice).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/12_TR_gt_(exepcion_de_indice).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/13_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/13_E_gestores_de_eventos.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/12_TR_gt_(indices).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/12_TR_gt_(indices).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/11_TR_find_(encontrar).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/11_TR_find_(encontrar).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/10_TR_not_(excluyente).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/10_TR_not_(excluyente).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/10_TR_not_(excluyente).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/9_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_TR_parent_(elementos_padres).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/6_SP_oldd_e_even_(selector_par_e_impar).php",
+		"/C/xampp/htdocs/inverlago/modulo2_proveedores_connor_body.php",
+		"/C/xampp/htdocs/inverlago/modulo2_proveedores.php",
+		"/C/xampp/htdocs/inverlago/proveedoresInverlago.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/10_TR_no_(excluyente).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/10_TR_nor_(excluyente).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_TR_parent_(elementos_padres).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_TR_parent_(elementos_padres).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_TR_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/A_uso_de_selectores_combinados.php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/A_uso_de_selectores_combinados.js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/A_uso_de_selectores_combinados.css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/7_SP_contains_(selector_de_texto).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/7_SP_contains_(selector_de_texto).php",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/js/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).js",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/css/8_SP_next_y_siblings_(siguiente_y_hermanos_del_elementos_pasado).css",
+		"/C/xampp/htdocs/centro_de_ensenanza_virtual/4_selectores_personalizados.php",
+		"/C/xampp/htdocs/inverlago/proveedor_connor.php",
+		"/C/xampp/htdocs/inverlago/modulo1_proveedores_heather.php",
+		"/C/xampp/htdocs/inverlago/css/proveedores_globales.css",
+		"/C/xampp/htdocs/inverlago/modulo1_identidadCorporativa.php",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/proof.sublime-snippet",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/inverlago/pinturas.php",
+		"/C/xampp/htdocs/inverlago/modulo3_videos_videos.php",
+		"/C/xampp/htdocs/inverlago/modulo4_pinturas.php",
+		"/C/xampp/htdocs/inverlago/modulo4_deportes.php",
+		"/C/xampp/htdocs/Abisalca/demo.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "inverlago.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

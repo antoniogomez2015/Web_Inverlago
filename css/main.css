@@ -1,0 +1,469 @@
+body, div{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+/**proof sidebar right*/
+
+a{
+	font-family:arial,hevetica,sans serif;
+	color:#06F;
+}
+
+	#wrapper{
+		width:1030px;
+		margin:auto;
+	}
+			
+		#divisiones{
+			width:1024px;
+			height:40px;
+		}
+		
+			#divisiones table{				
+				margin:10px 0 0 110px;				
+			}
+			
+				#divisiones table th{
+					margin:0 20px 0 20px;													
+				}
+				
+					#divisiones table a{
+						font-family:arial, helvetica,sans serif;
+						font-size:10px;
+						font-weight:bold;
+						color:#06C;
+						padding:0 0 20px 20px;
+					}
+					
+			#info_corporativo{
+				width:250px;
+				height:190px;
+				background-color:rgba(0,0,0,0.9);
+				-webkit-border-radius:15px;
+				-moz-border-radius:15px;
+				z-index:10000;
+			}
+			
+		nav{
+			width:1024px;			
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		#id img{
+			border:0;
+			margin:0;
+			z-index:0;			
+			}
+			
+		#menu ul{
+			list-style-type:none;
+		}
+		
+			#menu ul li{
+				width:150px;				
+			}
+			
+				#menu ul li a{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					font-weight:bold;
+					color:#06F;
+					padding:0 0 5px 0;
+				}
+		
+		#modulo1{
+			width:1024px;
+			height:334px;
+			margin:0;
+			background-image:url(../img/index/00_02.jpg);			
+			}
+			
+				#modulo1 .text{
+					position: relative;
+					left: -20px;
+					top: 0px;
+				}
+			
+				#modulo1 .text p{
+					padding:10px 5px 5px 0px;
+					font-family:arial,helvetica,sans serif;
+					font-size:11px;
+					font-weight:300;
+					line-height:20px;					
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-170px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+								
+		.sub1{
+			position:absolute;
+			left:-10px;
+			top:70px;
+			}
+			
+				.sub1 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub1 a:hover{
+					color:#999;
+				}
+			
+		.sub2{
+			position:absolute;
+			left:40px;
+			top:180px;
+			}
+			
+				.sub2 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub2 a:hover{
+					color:#999;
+				}
+			
+		.intro-cat{
+			position:absolute;
+			left:220px;
+			top:260px;
+			}
+			
+				.intro-cat a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					font-weight:bold;
+					font-stretch:condensed;
+					color:#06F;
+				}
+				
+				.intro-cat a:hover{
+					color:#999;
+				}
+			
+			
+		.sub3{
+			position:absolute;
+			left:417px;
+			top:180px;
+			}
+			
+				.sub3 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:11px;
+					color:#06F;
+				}
+				
+				.sub3 a:hover{
+					color:#999;
+				}			
+		
+		.sub4{
+			position:absolute;
+			left:480px;
+			top:70px;
+			}
+			
+				.sub4 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub4 a:hover{
+					color:#999;
+				}
+			
+		#modulo1 .noticias{
+			position:relative;
+			left:930px;
+			top:-155px;
+			margin:3px 5px 3px 5px;
+		}
+		
+			#modulo1 .noticias a{
+				font-family:arial,helvetica,sans serif;
+				font-size:16px;
+				color:#FFF;
+			}
+			
+				#modulo1 .noticias a:hover{
+					color:#039;
+				}
+		
+			
+		#modulo1 table{
+			position:relative;
+			top:-160px;
+			left:40px;
+			transition:transform 0.6s;
+			-moz-transition:-moz-transform 0.6s;
+			-o-transition:-o-transform 0.4s;
+			-ms-transition:-ms-transform 0.6s;
+			-webkit-transition:-webkit-transform 0.6s;
+		}
+		
+			#modulo1 table .facebook img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/facebook-activo.png);
+			}
+			
+			#modulo1 table .twitter img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/twitter-activo.png);
+			}
+			
+			#modulo1 table .youtube img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/youtube-activo.png);
+			}
+			
+			
+		#seccion_m2{
+			width:1026px;
+			height:377px;
+		}
+		
+		#modulo2{
+			width:1026px;
+			height:377px;
+			margin:0;
+			border:0;
+			padding:0;						
+			}
+			
+			#modulo2 #sidebar-left{
+				width:203px;
+				height:377px;				
+				text-align:left;
+				float:left;	
+				background-image:url(../img/inverlago_corporativo/sidebar_left.jpg);
+							
+			}
+			
+				#modulo2 #sidebar-left table{
+					width:100px;
+					height:200px;
+					margin:76px 0 0 5px;
+				}
+				
+					#modulo2 #sidebar-left table th{
+						padding:0 0 0 40px;
+					}
+					
+					#modulo2 #sidebar-left table a{
+						color:#FFF;
+					}
+					
+						#modulo2 #sidebar-left table a:hover{
+							color:#09F;
+						}
+		
+			#modulo2-main{
+				width:622px;
+				height:376px;				
+				float:left;															
+			}
+									
+				#modulo2 #modos-navegacion{
+					width:624px;
+					height:176px;
+					text-align:center;	
+					background-image:url(../img/index/d.jpg);				
+				}
+				
+				#modulo2 #modos-navegacion a:link{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:10px;
+					color:#999;				
+				}
+				
+				#modulo2 #modos-navegacion a:hover{
+					color:#06F;				
+				}
+				
+					.modos-navegacion{
+						padding:40px 0 0 140px;									
+					}
+									
+				#botonera{
+					width:624px;
+					height:201px;
+					float:left;
+					background-image:url(../img/index/e.jpg);
+				}
+				
+					#botonera ul{
+						text-decoration:none;					
+					}
+					
+						#botonera li{
+							display:block;					
+						}
+						
+						.icon-pag5{
+							width:60px;
+							position:relative;
+							left:100px;
+							top:80px;
+						}
+						
+						.icon-pag6{
+							width:60px;
+							position:relative;
+							left:250px;
+							top:-15px;
+						}
+						
+						.icon-pag7{
+							width:60px;
+							position:relative;
+							left:400px;
+							top:-20px;
+						}
+							
+												
+			#sidebar-right{
+				width:199px;
+				height:377px;
+				float:left;
+				background-image:url(../img/index/rendimiento.jpg);			
+			}
+			
+				#sidebar-right .slideshow{
+					height:300px;
+					width:130px;
+					margin:auto;
+					paddiing:15px;
+					border:1px solid #CCC;
+					bakground-color:#eee;
+					overflow:hidden;
+	
+				}
+		
+			
+		#modulo3{
+			width:1024px;
+			height:156px;
+			margin:0;
+			border:0;
+			padding:0;			
+			background-image:url(../img/index/f.jpg);
+			position:relative;
+			top:-18px;
+			left:0;
+		}
+		
+			#modulo3 ul{
+				text-decoration:none;					
+			}
+					
+				#modulo3 li{
+					display:block;					
+				}
+						
+					.icon-pag1{
+						width:60px;
+						position:relative;
+						left:225px;
+						top:-20px;
+					}
+						
+					.icon-pag2{
+						width:60px;
+						position:relative;
+						left:190px;
+						top:20px;
+					}
+						
+					.icon-pag3{
+						width:60px;
+						position:relative;
+						left:670px;
+						top:-120px;
+					}
+					
+					.icon-pag4{
+						width:60px;
+						position:relative;
+						left:705px;
+						top:-80px;
+					}
+					
+			#modulo4{
+				width:1024px;
+				height:172px;
+				position:relative;
+				top:-18px;
+				left:0;				
+			}
+			
+			footer{
+				width:1024px;
+				height:331px;
+				position:relative;
+				top:-18px;
+				left:0;
+			}
+			
+				#footer{
+					width:1024px;
+					height:331px;
+					background-image:url(../img/pinturas/caucho/footer.jpg);
+				}
+		
+
+		
+			
+		

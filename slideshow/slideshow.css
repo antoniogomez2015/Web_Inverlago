@@ -1,0 +1,113 @@
+/* Gallery styles */
+
+#campo{
+	width:1024px;
+	height:300px;
+}
+
+#gallery{
+	position:inherit;
+	left:0px;
+	top:0px;
+	margin:0 0 0 25px;
+	text-align:center;	
+}
+
+#slides{
+	/* This is the slide area */
+	height:322px;
+	
+	/* jQuery changes the width later on to the sum of the widths of all the slides. */
+	width:920px;
+	overflow:hidden;
+}
+
+.slide{
+	float:left;
+}
+
+
+#menu{
+	
+	height:45px;
+}
+
+#menu ul{
+	margin:0px;
+	padding:0px;
+}
+
+#menu li{
+	
+	width:130px;
+	display:inline-block;
+	list-style:none;
+	height:45px;
+	/*overflow:hidden;*/
+	alignment-adjust:central;
+}
+
+#menu li.inact:hover{
+	
+	background:url(img/pic_bg.png) repeat;
+}
+
+#menu li.act,li.act:hover{
+	
+	background:url(img/active2_bg.png) no-repeat;
+}
+
+#menu li.act a{
+	cursor:default;
+}*/
+
+.fbar{
+	/* The left-most vertical bar, next to the first thumbnail */
+	width:2px;
+	background:url(img/divider.png) no-repeat right;
+}
+
+#menu li a{
+	display:block;
+	background:url(img/divider.png) no-repeat right;
+	height:35px;
+	padding-top:10px;
+}
+
+#menu a img{
+	border:none;
+}
+
+.secciones{
+	padding:0 5px 10px 0;
+	alignment-adjust:central;
+	font-family:arial,helvetica,sans serif;
+	font-size:10px;
+}
+
+
+/* The styles below are only necessary for the demo page */
+
+
+#main{
+	/* The main container */
+	margin:15px auto;
+	text-align:center;
+	width:920px;
+	position:relative;
+}
+
+a, a:visited {
+	color:#0196e3;
+	text-decoration:none;
+	outline:none;
+}
+
+#menu a:hover{
+	text-decoration:underline;
+}
+
+#menu p{
+	padding:10px;
+	text-align:center;
+}

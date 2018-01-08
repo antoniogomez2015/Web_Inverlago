@@ -1,0 +1,154 @@
+body{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+:link{color:#999; text-decoration:none;}
+:visited{color:#333;}
+:active{color:#FFF;}
+:hover{color:black;}
+:focus{color:white;}
+
+h3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#09F;
+	text-align:left;
+}
+
+h4{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#09F;
+	text-align:center;
+}
+
+	#wrapper{
+		width:1024px;
+		margin:auto;
+	}
+			
+		#campo{
+			width:1024px;
+			height:300px;
+		}
+			
+		#divisiones{
+			width:1024px;
+			height:40px;
+		}
+		
+			#divisiones table{				
+				margin:10px 0 0 110px;				
+			}
+			
+				#divisiones table th{
+					margin:0 20px 0 20px;													
+				}
+				
+					#divisiones table a{
+						font-family:arial, helvetica,sans serif;
+						font-size:10px;
+						font-weight:bold;
+						color:#06C;
+						padding:0 0 20px 20px;
+					}
+					
+			#info_corporativo{
+				width:250px;
+				height:190px;
+				background-color:rgba(0,0,0,0.9);
+				-webkit-border-radius:15px;
+				-moz-border-radius:15px;
+				z-index:10000;
+			}
+		
+		nav{
+			width:1024px;			
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+			
+		
+		#mapa{
+			width:850px;
+			text-align:center;
+			margin:auto;
+			padding-top:30PX;
+		}
+		
+			#mapa p{
+				font-family:Arial, Helvetica, sans-serif;
+				font-size:12px;
+				color:#666;
+				line-height:20px;
+				text-align:left;
+			}
+		
+		.topicos th{
+			text-align:center;
+			color:#FFF;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:12px;
+			padding:3px 0 3px 30px;			
+		}
+		
+		.obrasRelacionadas{			
+			text-align:center;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:24px;
+			color:#09F;
+		}
+		
+		.relacionados{
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:12px;
+			color:#999;
+			text-align:left;
+			padding:20px 0 20px 30px; 
+		}
+		
+		.back{
+			background-color:#09F;
+			height:40px;
+		}
+		
+		.back a{
+			color:#FFF;
+		}
+		
+		.back a:hover{
+			color:#03F;
+		}
+		
+	
+				
+		
+		
+
+		
+			
+		

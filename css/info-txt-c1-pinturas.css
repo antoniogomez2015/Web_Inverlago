@@ -1,0 +1,469 @@
+body{	
+	border:0;
+	padding:0;
+	margin:center;	
+	background-image:url(../img/info%20text/bg.jpg);
+	background-attachment:fixed; 
+	background-repeat:no-repeat;	
+	
+}
+
+h3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFF;
+	padding-top:5px;
+}
+
+	#wrapper{
+		width:1024px;
+		margin:auto;
+		text-align:center;			
+	}
+	
+		
+		#modulo1{
+			width:1024px;
+			height:207px;
+			margin:0;
+			background-image:url(../img/top-inverlago-info3.png);
+			position:fixed;
+			top:0px;
+			left:10%;			
+			}
+			
+			.inicio{
+				width:50px;
+				height:15px;
+				position:relative;
+				top:50px;
+				left:300px;
+				font-family:arial,helvetica,sans serif;
+				font-size:16px;
+				font-weight:bold;
+				color:#FFF;
+			}
+			
+				#modulo1 .text{
+				position:relative;
+				left:-20px;
+				top:10px;
+			}
+			
+				#modulo1 .text p{
+					padding:3px;
+					font-size:12px;
+					font-weight:300;
+					line-height:30px;
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-105px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+					
+		.sub1{
+			position:absolute;
+			left:40px;
+			top:120px;
+			}
+			
+			.sub1 a{
+				font-family:arial,helvetica,sans serif;
+				font-size:12px;
+				color:#09F;				
+			}
+			
+				.sub1 a:hover{
+					color:#039;
+				}
+			
+		.sub2{
+			position:absolute;
+			left:110px;
+			top:195px;
+			}
+			
+			.sub2 a{
+				font-family:arial,helvetica,sans serif;
+				font-size:12px;
+				color:#09F;				
+			}
+			
+				.sub2 a:hover{
+					color:#039;
+				}
+			
+		.intro-cat{
+			position:absolute;
+			left:235px;
+			top:230px;
+			}
+			
+			.intro-cat a{
+			font-size:14px;
+			font-family:arial;
+			font-weight:bold;
+			font-stretch:condensed;						
+			}
+			
+			#.intro-cat a:hover{
+				color:#039;
+			}
+			
+		.sub3{
+			position:absolute;
+			left:350px;
+			top:200px;
+			}
+			
+			.sub3 a{
+				font-family:arial,helvetica,sans serif;
+				font-size:12px;
+				color:#09F;				
+			}
+			
+				.sub3 a:hover{
+					color:#039;
+				}
+		
+		.sub4{
+			position:absolute;
+			left:450px;
+			top:120px;
+			}
+			
+			.sub4 a{
+				font-family:arial,helvetica,sans serif;
+				font-size:12px;
+				color:#09F;				
+			}
+			
+				.sub4 a:hover{
+					color:#039;
+				}
+			
+		#modulo1 ul .noticias{
+			position:relative;
+			left:170px;
+			top:0;
+			margin:3px 5px 3px 5px;
+		}
+		
+			#modulo1 ul .noticias a:link{
+				font-size:20px;
+				font-family:arial;
+				font-weight:bold;
+				color:#FFF;
+				padding:5px 5px 35px 30px;
+			}
+
+	#main-info{
+		width:1024px;
+		height:3500px;
+		padding:220px 0 0 10px;			
+	}
+	
+		#c1{
+			width:1024px;
+			height:3500px;			
+			float:left;			
+		}
+		
+			#L1{
+				width:1024px;
+				height:500px;
+			}
+			
+				#screen1{
+					margin:25px 0 10px 262px;
+					width:500px;
+					height:700px;
+					float:left;
+					background-image:url(../img/empresa/screen2.png);					
+				}
+				
+					#screen1 table{
+					text-align:center;
+					margin:auto;
+					background-color:#09F;
+					border-radius:5px;
+				}
+				
+					#screen1 table a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#screen1 table a:hover{
+						color:#06C;
+					}
+				
+				#h1{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					color:#FFF;
+					width:180px;
+					height:220px;
+					margin:30px 0 0 70px;
+					float:left;					
+					border-radius:10px;	
+					text-align:right;	
+				}
+				
+					#h1 ul{
+						list-style-type:none;
+					}
+					
+					#h1 ul li{
+						padding-top:10px;
+						padding-right:25px;
+						padding-bottom:10px;
+						background-color:rgba(100, 100, 100, 0.2);
+						margin-top:5px;
+						border-radius:18px 0 0 18px;						
+						box-shadow:3px 0px 1px #09F;
+						cursor:pointer;
+						-webkit-transition:padding-right 0.6s;
+						-moz-transition:padding-right 0.6s;
+					}
+					
+					#h1 ul li a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						font-weight:bold;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#h1 ul li:hover{
+						padding-right:50px;
+					}
+				
+					
+				
+			#L2{
+				width:1024px;
+				height:500px;
+			}
+			
+				#screen2{
+					margin:25px 0 10px 80px;
+					width:500px;
+					height:700px;
+					float:left;
+					background-image:url(../img/empresa/screen2.png);	
+				}
+				
+					#screen2 table{
+					text-align:center;
+					margin:auto;
+					background-color:#09F;
+					border-radius:5px;
+				}
+				
+					#screen2 table a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#screen2 table a:hover{
+						color:#06C;
+					}
+				
+				#h2{
+					width:250px;
+					height:350px;
+					margin:150px 0 0 70px;
+					float:left;					
+					border-radius:15px;
+				}
+				
+					#h2 ul{
+						list-style:none;
+					}
+				
+					#h2 ul li{
+						padding-top:10px;
+						padding-right:25px;
+						padding-bottom:10px;
+						background-color:rgba(100, 100, 100, 0.2);
+						margin-top:5px;
+						border-radius:18px 0 0 18px;						
+						box-shadow:3px 0px 1px #09F;
+						cursor:pointer;
+						-webkit-transition:padding-left 0.6s;
+						-moz-transition:padding-left 0.6s;
+						text-decoration:none;
+					}
+					
+					#h2 ul li a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						font-weight:bold;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#h2 ul li:hover{
+						padding-left:50px;
+					}
+				
+			#L3{
+				width:1024px;
+				height:500px;
+			}
+			
+				#screen3{
+					margin:25px 0 10px 80px;
+					width:500px;
+					height:700px;
+					float:left;
+					background-image:url(../img/empresa/screen2.png);	
+					border-radius:10px;
+				}
+				
+					#screen3 table{
+					text-align:center;
+					margin:auto;
+					background-color:#09F;
+					border-radius:5px;
+				}
+				
+					#screen3 table a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#screen3 table a:hover{
+						color:#06C;
+					}		
+				
+				
+				#h3{
+					width:250px;
+					height:350px;
+					margin:150px 0 0 70px;
+					float:left;					
+					border-radius:15px;
+				}
+				
+					#h3 ul{
+						list-style-type:none;
+					}
+					
+					#h3 ul li{
+						padding-top:10px;
+						padding-right:25px;
+						padding-bottom:10px;
+						background-color:rgba(100,100,100,0.3);
+						margin-top:5px;
+						border-radius:18px 0 0 18px;						
+						box-shadow:3px 0px 1px #09F;
+						cursor:pointer;
+						-webkit-transition:padding-right 0.6s;
+						-moz-transition:padding-right 0.6s;
+					}
+					
+					#h3 ul li a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#h3 ul li:hover{
+						padding-right:50px;
+					}
+				
+			#L4{
+				width:1024px;
+				height:500px;
+			}
+			
+				#screen4{
+					margin:25px 0 10px 80px;
+					width:500px;
+					height:700px;
+					float:left;
+					background-image:url(../img/empresa/screen2.png);					
+				}
+				
+					#screen4 table{
+					text-align:center;
+					margin:auto;
+					background-color:#09F;
+					border-radius:5px;
+				}
+				
+					#screen4 table a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#screen4 table a:hover{
+						color:#06C;
+					}
+				
+				
+				#h4{
+					width:250px;
+					height:350px;
+					margin:150px 0 0 70px;
+					float:left;					
+					border-radius:15px;
+				}
+				
+					#h4 ul{
+						list-style-type:none;
+					}
+					
+					#h4 ul li{
+						padding-top:10px;
+						padding-right:25px;
+						padding-bottom:10px;
+						background-color:rgba(100,100,100,0.3);
+						margin-top:5px;
+						border-radius:18px 0 0 18px;						
+						box-shadow:3px 0px 1px #09F;
+						cursor:pointer;
+						-webkit-transition:padding-right 0.6s;
+						-moz-transition:padding-right 0.6s;
+					}
+					
+					#h4 ul li a{
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:14px;
+						color:#FFF;
+						text-decoration:none;
+					}
+					
+					#h4 ul li:hover{
+						padding-right:50px;
+					}
+	
+	.screen1-text{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:13px;
+		line-height:30px;
+		color:#666;
+		padding:0 35px 10px 35px;
+		text-align:justify;
+	}
+		

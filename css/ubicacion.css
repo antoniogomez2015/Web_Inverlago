@@ -1,0 +1,316 @@
+body, div{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+a{
+	font-family:arial,hevetica,sans serif;
+	color:#06F;
+}
+
+	#wrapper{
+		width:1030px;
+		margin:auto;
+	}
+	
+		#campo{
+			width:1024px;
+			height:300px;
+		}
+
+			#TopSlideshow{
+				width: 1024px;
+				height: 300px;
+				position: relative;
+			}
+
+				#TopSlideshow div{
+					width: 1024px;
+					height: 300px;					
+					position: absolute;	
+				}
+
+					#TopSlideshow div img{
+						width: 1024px;
+						height: 300px;
+						border-radius: 18px;
+					}
+		
+		#divisiones{
+			width:1024px;
+			height:40px;
+		}
+		
+			#divisiones table{				
+				margin:10px 0 0 110px;				
+			}
+			
+				#divisiones table th{
+					margin:0 20px 0 20px;													
+				}
+				
+					#divisiones table a{
+						font-family:arial, helvetica,sans serif;
+						font-size:10px;
+						font-weight:bold;
+						color:#06C;
+						padding:0 0 20px 20px;
+					}
+			
+		nav{
+			width:1024px;
+			margin:40px 0 0 0;		
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		#id img{
+			border:0;
+			margin:0;			
+			}
+		
+		#modulo1{
+			width:1024px;
+			height:334px;
+			margin:0;
+			background-image:url(../img/top-inverlago-info.jpg);			
+			}
+			
+				#modulo1 .text{
+					position: relative;
+					left: -20px;
+					top: 0px;
+				}
+			
+				#modulo1 .text p{
+					padding:15px 5px 5px 5px;
+					font-family:arial,helvetica,sans serif;
+					font-size:13px;
+					font-weight:300;					
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-170px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+								
+		.sub-opciones{
+			text-align:center;
+		}
+		
+		.sub1{
+			position:absolute;
+			left:-8px;
+			top:70px;
+			}
+			
+				.sub1 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					color:#06F;
+				}
+				
+				.sub1 a:hover{
+					color:#999;
+				}
+			
+		.sub2{
+			position:absolute;
+			left:50px;
+			top:180px;
+			}
+			
+				.sub2 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					color:#06F;
+				}
+				
+				.sub2 a:hover{
+					color:#999;
+				}
+			
+		.intro-cat{
+			position:absolute;
+			left:220px;
+			top:260px;
+			}
+			
+				.intro-cat a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					font-weight:bold;
+					font-stretch:condensed;
+					color:#06F;
+				}
+				
+				.intro-cat a:hover{
+					color:#999;
+				}
+			
+			
+		.sub3{
+			position:absolute;
+			left:415px;
+			top:180px;
+			}
+			
+				.sub3 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					color:#06F;
+				}
+				
+				.sub3 a:hover{
+					color:#999;
+				}			
+		
+		.sub4{
+			position:absolute;
+			left:490px;
+			top:70px;
+			}
+			
+				.sub4 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					color:#06F;
+				}
+				
+				.sub4 a:hover{
+					color:#999;
+				}
+			
+		#modulo1 .noticias{
+			position:relative;
+			left:930px;
+			top:-165px;
+			margin:3px 5px 3px 5px;
+		}
+		
+			#modulo1 .noticias a{
+				font-family:arial,helvetica,sans serif;
+				font-size:16px;
+				color:#FFF;
+			}
+			
+				#modulo1 .noticias a:hover{
+					color:#039;
+				}
+		
+			
+		#modulo1 table{
+			position:relative;
+			top:-160px;
+			left:40px;
+			transition:transform 0.6s;
+			-moz-transition:-moz-transform 0.6s;
+			-o-transition:-o-transform 0.4s;
+			-ms-transition:-ms-transform 0.6s;
+			-webkit-transition:-webkit-transform 0.6s;
+		}
+		
+			#modulo1 table .facebook img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/facebook-activo.png);
+			}
+			
+			#modulo1 table .twitter img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/twitter-activo.png);
+			}
+			
+			#modulo1 table .youtube img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/youtube-activo.png);
+			}
+			
+		#ubicacion{
+			width:1024px;
+			text-align:center;
+		}
+		
+			#map1{
+				width:850px;
+				margin:50px 0 0 100px;
+			}
+			
+				#map1 h3{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					font-weight:bold;
+					color:#09F;
+					padding:0 0 20px 0;
+				}
+			
+			#map2{
+				width:850px;
+				margin:70px 0 0 100px;
+			}
+			
+				#map2 h3{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					font-weight:bold;
+					color:#09F;
+					padding:0 0 20px 0;
+				}
+			
+			#footer{
+				width:850px;
+				height:100px;
+				margin:10px 0 0 100px;
+				padding:0 0 0 5px;
+			}
+			
+				#footer p{
+					width:850px;
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					line-height:25px;
+					color:#09F;									
+				}
+		

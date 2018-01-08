@@ -1,0 +1,699 @@
+
+/*stilos para el contenedor de tabs*/
+#area_containt, #area_hover{
+	width: 1030px;
+	min-height: 2000px;
+	position: absolute;
+	top: 0;	
+	margin: 0 auto;
+	/*background-color: rgba(0, 0, 0, 0.5);*/
+	display: none;
+	/*z-index: 99;*/
+}
+
+	#containt, #hover_info{
+		width: 780px;
+		height:300px;
+		position: relative;
+		top: 934px;
+		float: right;
+		text-align: center;
+		margin: 0px 110px 0px 160px;		
+		border-radius: 15px 0px 0px 15px;
+		box-shadow: 3px 3px 3px;			
+		background: #919191; /* Old browsers */
+		background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */
+		/*display: none;*/
+		opacity: 100;
+		overflow: hidden;
+	}	
+
+		.containt2{	
+			width:780px;
+			height:300px;
+			position: relative;
+			top: 940px;
+			float: right;
+			text-align: center;
+			margin: 0px 0px 0px 160px;		
+			border-radius: 15px 0px 0px 15px;
+			box-shadow: 3px 3px 3px;			
+			background: #919191; /* Old browsers */
+			background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+			background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */
+			/*display: none;*/
+			opacity: 100;		
+			animation: visualizar 2s;	
+			-webkit-animation: visualizar 2s;	
+			-moz-animation: visualizar 2s;	
+			-o-aanimation: visualizar 2s;	
+			-ms-animation: visualizar 2s;
+			overflow: hidden;	
+		}
+		
+			@keyframes visualizar{
+				0%{width: 0px; opacity: 0%; margin-right: 0;}
+				100%{width: 780px; opacity: 100%; margin-right: 110;}
+			}
+
+			@-webkit-keyframes visualizar{
+				0%{width: 0px; opacity: 0%; margin-right: 0;}
+				100%{width: 780px; opacity: 100%; margin-right: 110;}
+			}
+
+			@-moz-keyframes visualizar{
+				0%{width: 0px; opacity: 0%; margin-right: 0;}
+				100%{width: 780px; opacity: 100%; margin-right: 110;}
+			}
+
+			@-o-keyframes visualizar{
+				0%{width: 0px; opacity: 0%; margin-right: 0;}
+				100%{width: 780px; opacity: 100%; margin-right: 110;}
+			}
+
+			@-ms-keyframes visualizar{
+				0%{width: 0px; opacity: 0%; margin-right: 0;}
+				100%{width: 780px; opacity: 100%; margin-right: 110;}
+			}
+
+		
+	/*clases de estilos para los proveedores específicos*/
+
+		.horizontal{		
+			background-color: #E28238;
+			color: #E28238;
+		}
+
+
+	/*contenido de sistemas de gramas*/
+		.cerrar{
+			float: left;		
+		}
+
+		#grama h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 15px 0px 10px 0px;
+		}
+
+		#grama h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px 0px 10px 0px;
+		}
+
+		#grama ul{
+			list-style: none;
+		}
+
+			#grama ul li{
+				display: inline-block;
+				padding: 3px 15px 3px 15px;
+				margin: 0px 10px 0px 10px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#grama ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#grama ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#grama ul li a:hover{
+						color: #fff;
+					}
+
+		#grama #proveedores{
+			width: 530px;
+			background-color: #999;
+			margin: 0px 0px 10px 120px;		
+		}
+
+			#grama #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 15px 0px 0px 0px;
+			}
+
+			#grama #proveedores table{
+				width: 500px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#grama #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#grama #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#grama #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #333;
+				}
+
+
+	/*contenido de sistemas de atletismo*/	
+		#atletismo h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 10px 0px 0px 0px;
+		}
+
+		#atletismo h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		#atletismo ul{
+			list-style: none;
+		}
+
+			#atletismo ul li{
+				display: inline-block;
+				padding: 3px 15px 3px 15px;
+				margin: 0px 10px 0px 10px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#atletismo ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#atletismo ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#atletismo ul li a:hover{
+						color: #fff;
+					}
+
+		#atletismo #proveedores{
+			width: 500px;
+			background-color: #999;
+			margin: 0px 0px 10px 120px;		
+		}
+
+			#atletismo #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 15px 0px 0px 0px;
+			}
+
+			#atletismo #proveedores table{
+				width: 500px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#atletismo #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#atletismo #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#atletismo #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #333;
+				}
+
+
+	/*contenido de sistemas de pizarras electrónicas*/	
+		#pizarras h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 10px 0px 0px 0px;
+		}
+
+		#pizarras h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		#pizarras ul{
+			list-style: none;
+		}
+
+			#pizarras ul li{
+				display: inline-block;
+				padding: 3px 15px 3px 15px;
+				margin: 0px 10px 0px 10px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#pizarras ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#pizarras ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#pizarras ul li a:hover{
+						color: #fff;
+					}
+
+		#pizarras #proveedores{
+			width: 500px;
+			background-color: #999;
+			margin: 0px 0px 10px 120px;		
+		}
+
+			#pizarras #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 15px 0px 0px 0px;
+			}
+
+			#pizarras #proveedores table{
+				width: 500px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#pizarras #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#pizarras #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#pizarras #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #333;
+				}
+
+
+	/*contenido de sistemas de pantallas electrónicas*/	
+		#pantallas h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 10px 0px 0px 0px;
+		}
+
+		#pantallas h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		#pantallas ul{
+			list-style: none;
+		}
+
+			#pantallas ul li{
+				display: inline-block;
+				padding: 3px 15px 3px 15px;
+				margin: 8px 10px 0px 10px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#pantallas ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#pantallas ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#pizarras ul li a:hover{
+						color: #fff;
+					}
+
+		#pantallas #proveedores{
+			width: 500px;
+			background-color: #999;
+			margin: 0px 0px 10px 120px;		
+		}
+
+			#pantallas #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 15px 0px 0px 0px;
+			}
+
+			#pantallas #proveedores table{
+				width: 500px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#pantallas #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#pantallas #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#pantallas #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #333;
+				}
+
+	/*contenido de sistemas de canchas deportivas*/	
+		#canchas h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px 0px 0px 0px;
+			margin: 10px 0px 0px 0px;
+		}
+
+		#canchas h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px;
+			margin: 10px 0px 0px 0px;
+		}
+
+		#canchas ul{
+			list-style: none;
+			margin-left: -60px;			
+		}
+
+			#canchas ul li{
+				display: inline-block;
+				padding: 0px 15px 3px 15px;
+				margin: 0px 10px 0px 0px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#canchas ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#canchas ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#canchas ul li a:hover{
+						color: #fff;
+					}
+
+		#canchas #proveedores{
+			width: 650px;
+			background-color: #999;
+			margin: 0px 0px 0px 10px;		
+		}
+
+			#canchas #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 0px 0px 0px 0px;
+			}
+
+			#canchas #proveedores table{
+				width: 650px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#canchas #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#canchas #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#canchas #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #E67E17;
+				}
+
+	/*contenido de sistemas con asientos deportivos*/	
+		#asientos h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px 0px 0px 0px;
+			margin: 10px 0px 10px 0px;
+		}
+
+		#asientos h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		#asientos ul{
+			list-style: none;
+		}
+
+			#asientos ul li{
+				display: inline-block;
+				padding: 3px 15px 3px 15px;
+				margin: 8px 10px 0px 10px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#asientos ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#asientos ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#asientos ul li a:hover{
+						color: #fff;
+					}
+
+		#asientos #proveedores{
+			width: 500px;
+			background-color: #999;
+			margin: 0px 0px 10px 120px;		
+		}
+
+			#asientos #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 15px 0px 0px 0px;
+			}
+
+			#asientos #proveedores table{
+				width: 500px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#asientos #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#asientos #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#asientos #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #333;
+				}
+
+	/*contenido de sistemas de Equipamiento deportivos*/	
+		#equipamiento h2{
+			font-family: arial,helvetica,sans serif;
+			font-size: 24px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px 0px 0px 0px;
+			margin: 10px 0px 10px 0px;
+		}
+
+		#equipamiento h3{
+			font-family: arial,helvetica,sans serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		#equipamiento ul{
+			list-style: none;
+			width: 700px;
+			margin-left: -50px;
+		}
+
+			#equipamiento ul li{
+				display: inline-block;
+				padding: 3px 15px 3px 15px;
+				margin: 3px 10px 3px 10px;
+				background-color: #fff;
+				border-radius: 10px;
+				box-shadow: 3px 3px 3px;
+			}
+
+				#equipamiento ul li a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 14px;
+					font-weight: bold;
+					color: #333;
+				}
+
+					#equipamiento ul li:hover{
+						background-color: #21B6D1;
+					}
+
+					#equipamiento ul li a:hover{
+						color: #fff;
+					}
+
+		#equipamiento #proveedores{
+			width: 800px;
+			background-color: #999;
+			margin: 0px 0px 10px 10px;		
+		}
+
+			#equipamiento #proveedores h3{
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: 600;
+				color: #fff;
+				padding: 8px 0px 0px 0px;
+			}
+
+			#equipamiento table{
+				width: 800px;
+				margin: 0px 0px 0px 0px;
+				font-family: arial,helvetica,sans serif;
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+			}
+
+				#equipamiento #proveedores table th{
+					background-color: #7db9e8;
+				}
+
+				#equipamiento #proveedores table td{
+					background-color: #A9CBE5;
+				}
+
+				#equipamiento #proveedores table a{
+					font-family: arial,helvetica,sans serif;
+					font-size: 16px;
+					color: #fff;
+				}
+
+	.proveedor{
+		background-color: #0C143F;
+	}
+
+	.especializaciones{
+		background-color: #1770DB;
+		color: #88B6FB;
+	}

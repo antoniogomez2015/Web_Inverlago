@@ -1,0 +1,66 @@
+/*hablador con los tipos de productos siponibles*/
+	
+		#base2{
+			width: 100%;
+			min-height: 2200px;			
+			text-align: center;
+			margin: auto;
+			position: absolute;
+			top: 0px;	
+			left: 0px;				
+			z-index: 999;
+			display: none;			
+		}
+
+			#info-proveedores{
+				width: 1025px;
+				min-height: 1760px;
+				background-color: rgba(0,0,0,0.8);
+				border-radius: 15px;
+				margin: 0 auto;
+				margin-top: 310px;															
+			}
+
+				#base2 #info-proveedores a h2{
+					font-family: arial,helvetica,sans-serif;
+					font-size: 24px;
+					color: #34352D;
+					font-weight: bold;
+					margin: 10px 0px 15px 0px;
+				}
+
+				#base2 #info-proveedores img{					
+					text-align: center;
+					margin: 0px 20px 15px 25px;					
+					border-radius: 20px;
+					float: left;					
+				}
+
+					#SportSystem img{
+						margin-top: 30%;
+					}
+
+				#base2 #info-proveedores p{
+					width: 200px;
+					font-family: arial,helvetica,sans-serif;
+					font-size: 18px;
+					line-height: 20px;
+					text-align: left;
+					color: #34352D;
+					margin: 0px 15px 15px 10px;
+					float: left;
+				}
+
+				#info-proveedores .tops{
+					width: 490px;
+					height: 260px;
+					display:inline-block;
+					margin: 20px 4px 10px 8px;
+					background: #919191; /* Old browsers */
+					background: -webkit-linear-gradient(#919191 1%, #e5e5e5 50%, #919191 100%);
+					background: -o-linear-gradient(#919191 1%, #e5e5e5 50%, #919191 100%);
+					background: linear-gradient(#919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */ /* Chrome,Safari4+ */ /* Chrome10+,Safari5.1+ */ /* Opera 11.10+ */ /* IE10+ */ /* W3C */
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */				
+					border-radius: 15px;
+					float: left;
+				}	

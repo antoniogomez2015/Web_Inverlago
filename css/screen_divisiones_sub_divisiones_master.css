@@ -1,0 +1,269 @@
+
+/*general- común*/
+body, #wrapper{
+	margin: 0 auto;
+	border:0px;
+	padding: 0px;
+}
+
+/*------------------------------------------------------------------------------------------------------*/
+/*divisiones y sub divisiones screenes*/
+
+
+	/*divisiones de productos SportSystem*/
+	#divisiones_container_sportSystem{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;			
+	}
+
+	/*sub divisiones "SportSystem/Gimnasia" de productos SportSystem*/
+	#divisiones_container_sub_gimnasia{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;
+		display: none;	
+	}
+
+	/*sub divisiones "SportSystem/Atletismo" de productos SportSystem*/
+	#divisiones_container_sub_atletismo{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;
+		display: none;
+	}
+
+	/*sub divisiones "SportSystem/Baloncesto" de productos SportSystem*/
+	#divisiones_container_sportSystem_baloncesto{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;
+		display: none;	
+	}
+
+	/*sub divisiones "SportSystem/Futbol" de productos SportSystem*/
+	#divisiones_container_sub_futbol{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;
+		display: none;	
+	}
+
+	/*sub divisiones "SportSystem/Balones" de productos SportSystem*/
+	#divisiones_container_sub_balones{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;
+		display: none;	
+	}
+
+	/*sub divisiones "SportSystem/Voleibol" de productos SportSystem*/
+	#divisiones_container_sub_voleibol{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin: auto;	
+		z-index: 999;
+		display: none;	
+	}
+	
+		
+
+/*------------------------------------------------------------------------------------------------------*/
+	
+
+	/*screen división - sub división de máximo de 25 tópicos*/
+	#screen_divisiones_sub_divisiones_20{
+		width: 1320px;
+		min-height: 885px;
+		padding: 5px 0px 0px 20px;
+		position: relative;
+		top: 20px;	
+		left: 0px;		
+		margin: auto;		
+		border-radius: 20px;
+		box-shadow: 3px 3px 8px 0.1px;
+		background: #919191; /* Old browsers */
+		background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */					
+	}
+
+		/*snipper de tópico wide de 25*/
+		.topic_divisiones_sub_division_mix_wide{
+			width: 250px;
+			min-height: 155px;
+			margin: 3px 5px 3px 5px;
+			float: left;
+			border-radius: 10px;
+			background-color: orange;
+					
+		}
+
+			.topic_divisiones_sub_division_mix_wide img{
+				border-radius: 10px;
+				margin: 0px 0px 2px 0px;
+			}
+
+		/*info de tópico wide de 20*/
+			.topic_divisiones_sub_division_mix_wide h3{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 18px;
+				font-weight: bold;
+				color: #fff;
+				margin: 0px;
+				padding: 0px;
+			}
+
+			.topic_divisiones_sub_division_mix_wide h4{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 14px;
+				font-weight: bold;
+				color: #fff;
+				margin: 0px 0px 5px 0px;
+				padding: 0px;
+			}
+			
+	
+	/*screen división - sub división de máximo de 7 tópicos*/
+	#screen_divisiones_sub_divisiones_7{
+		width: 800px;
+		min-height: 860px;
+		padding: 5px 0px 0px 20px;
+		position: relative;
+		top: 20px;	
+		left: 0px;		
+		margin: auto;		
+		border-radius: 20px;
+		box-shadow: 3px 3px 8px 0.1px;
+		background: #919191; /* Old browsers */
+		background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */		
+	}
+
+	/*screen división - sub división de máximo de 6 tópicos*/
+	#screen_divisiones_sub_divisiones_6{
+		width: 800px;
+		min-height: 660px;
+		padding: 5px 0px 0px 20px;
+		position: relative;
+		top: 20px;	
+		left: 0px;		
+		margin: auto;		
+		border-radius: 20px;
+		box-shadow: 3px 3px 8px 0.1px;
+		background: #919191; /* Old browsers */
+		background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */		
+	}
+
+	/*screen división - sub división de máximo de 3 tópicos verticales*/
+	#screen_divisiones_sub_divisiones_3{
+		width: 407px;
+		min-height: 640px;
+		padding: 5px 0px 0px 20px;
+		position: relative;
+		top: 20px;	
+		left: 0px;		
+		margin: auto;		
+		border-radius: 20px;
+		box-shadow: 3px 3px 8px 0.1px;
+		background: #919191; /* Old browsers */
+		background: -moz-linear-gradient(top,  #919191 1%, #e5e5e5 50%, #919191 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#919191), color-stop(50%,#e5e5e5), color-stop(100%,#919191)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #919191 1%,#e5e5e5 50%,#919191 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #919191 1%,#e5e5e5 50%,#919191 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#919191', endColorstr='#919191',GradientType=0 ); /* IE6-9 */		
+	}
+
+				
+
+		/*snipper de tópico estándar de 3, 6, 7*/
+		.topic_divisiones_sub_division_mix_estandar{
+			width: 370px;
+			min-height: 155px;
+			margin: 5px 10px 5px 10px;
+			float: left;
+			border-radius: 10px;
+			/*background-color: #215A85;*/
+		}
+
+			.topic_divisiones_sub_division_mix_estandar img{
+				border-radius: 10px;
+				margin: 0px 0px 2px 0px;
+			}
+
+
+		/*info de tópico estándar de 3, 6, 7*/
+			.topic_divisiones_sub_division_mix_estandar h3{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 18px;
+				font-weight: bold;
+				color: #fff;
+				margin: 0px;
+				padding: 0px;
+			}
+
+			.topic_divisiones_sub_division_mix_estandar h4{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 14px;
+				font-weight: bold;
+				color: #fff;
+				margin: 0px 0px 5px 0px;
+				padding: 0px;
+			}
+
+
+/*------------------------------------------------------------------------------------------------------*/
+
+/*color para el screen de los snipper de las diviciones ó sub divisiones para Daktronics*/
+.daktronics_bgcolor{
+	background-color: #215A85;
+}
+
+/*color para el screen de los snipper de las diviciones ó sub divisiones para SportSystem*/
+.sportSystem_bgcolor{
+	background-color: orange;
+}

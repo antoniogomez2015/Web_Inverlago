@@ -1,0 +1,128 @@
+
+a continuación los correos creados según sus indicaciones y relacionamientos
+
+
+nombre: Carlos_Estrada
+
+usuario: presidente
+
+clave: CarlosEstrada2014
+
+correo: presidencia@inverlago.com
+
+--------------------------------------
+
+nombre: departamento_ventas
+
+usuario: ventas
+
+clave: ventasInverlago2014
+
+correo: ventas@inverlago.com
+
+-------------------------------
+
+nombre: división_deportes
+
+usuario:deportes
+
+clave:inverlagoDeportes2014
+
+correo: deportes@inverlago.com
+
+------------------------------------
+
+nombre: administración_inverlago
+
+usuario: administracion
+
+clave: administracionInverlago2014
+
+correo: administracion@inverlago.com
+
+---------------------------------------
+
+nombre: contabilidad_inverlago
+
+usuario: contabilidad
+
+clave: contabilidadInverlago2014
+
+correo: contabilidad@inverlago.com
+
+----------------------------------------
+
+nombre: compras_inverlago
+
+usuario: compras
+
+clave: comprasInverlago2014
+
+correo: compras@inverlago.com
+
+------------------------------------------
+
+nombre: luis_estrada
+
+usuario:luisestrada
+
+clave: luisCarlosEstrada2014
+
+correo: luisestrada@inverlago.com
+
+-----------------------------------------
+
+nombre: LCEstrada
+
+usuario: lcestrada
+
+clave: LCEstrada2014
+
+correo: lcestrada@inverlago.com
+
+----------------------------------------
+
+nombre: Scastillo
+
+usuario: scastillo
+
+clave: scastilloInverlago2014
+
+correo: scastillo@inverlago.com
+
+--------------------------------------
+
+nombre: Emascias
+
+usuario: emascias
+
+clave: emasciasInverlago2014
+
+correo: emascias@inverlago.com
+
+------------------------------------
+
+nombre: Mcarmona
+
+usuario: mcarmona
+
+clave: mcarmonaInverlago2014
+
+correo: mcarmona@inverlago.com
+
+--------------------------------------
+
+
+
+acceso a cliente de correos:
+
+mail.inverlago.com
+
+ingresar:
+
+	usuario:
+
+	clave:
+
+
+también puede configurar sus correos en outlock y otros cliente de correos

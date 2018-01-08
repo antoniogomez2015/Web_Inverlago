@@ -1,0 +1,51 @@
+body{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+:link{color:#999; text-decoration:none;}
+:visited{color:#333;}
+:active{color:#FFF;}
+:hover{color:black;}
+:focus{color:white;}
+
+	#wrapper{
+		width:1030px;
+		margin:auto;
+	}
+			
+		nav{
+			width:1024px;			
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		
+		
+
+		
+			
+		

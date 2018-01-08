@@ -1,0 +1,730 @@
+body, div{
+	border:0;
+	padding:0;
+	margin:center;
+}
+
+/**proof sidebar right*/
+
+a{
+	font-family:arial,hevetica,sans serif;
+	color:#06F;
+}
+
+	#wrapper{
+		width:1030px;
+		margin:auto;
+	}
+			
+		#divisiones{
+			width:1024px;
+			height:40px;
+		}
+		
+			#divisiones table{				
+				margin:10px 0 0 110px;				
+			}
+			
+				#divisiones table th{
+					margin:0 20px 0 20px;													
+				}
+				
+					#divisiones table a{
+						font-family:arial, helvetica,sans serif;
+						font-size:10px;
+						font-weight:bold;
+						color:#06C;
+						padding:0 0 20px 20px;
+					}
+					
+			#info_corporativo{
+				width:250px;
+				height:190px;
+				background-color:rgba(0,0,0,0.9);
+				-webkit-border-radius:15px;
+				-moz-border-radius:15px;
+				z-index:10000;
+			}
+			
+		nav{
+			width:1024px;
+			margin:40px 0 0 0;		
+		}
+		
+		nav ul{
+			text-decoration:none;
+			background-color:#06C;
+			width:980px;
+			border-radius: 0 0 10px 10px;
+			text-align:center;
+		}
+			
+			nav ul li{
+				display:inline;
+				padding:5px 40px 5px 40px;
+				font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				font-size:12px;
+				list-style:none;					
+			}
+			
+			nav ul li a:link{
+				color:#FFF;					
+			}
+			
+			nav ul li a:visited{
+				color:#FFF;					
+			}
+				
+		#id img{
+			border:0;
+			margin:0;
+			z-index:0;			
+			}
+			
+		#menu ul{
+			list-style-type:none;
+		}
+		
+			#menu ul li{
+				width:150px;				
+			}
+			
+				#menu ul li a{
+					font-family:arial,helvetica,sans serif;
+					font-size:12px;
+					font-weight:bold;
+					color:#06F;
+					padding:0 0 5px 0;
+				}
+		
+		#modulo1{
+			width:1024px;
+			height:334px;
+			margin:0;
+			background-image:url(../img/modelo1.jpg);			
+			}
+			
+				#modulo1 .text{
+					position: relative;
+					left: -20px;
+					top: 0px;
+				}
+			
+				#modulo1 .text p{
+					padding:10px 5px 5px 0px;
+					font-family:arial,helvetica,sans serif;
+					font-size:11px;
+					font-weight:300;
+					line-height:25px;					
+					text-align:center;
+					color:#FFF;
+				}
+			
+			#modulo1 ul{
+				text-decoration:none;
+				position:relative;
+				left:245px;
+				top:-170px;
+			}
+			
+			#modulo1 ul li{
+				display:inline;
+			}
+								
+		.sub1{
+			position: absolute;
+			left: -5px;
+			top: 35px;
+			text-align:center;
+			}
+			
+				.sub1 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub1 a:hover{
+					color:#999;
+				}
+			
+		.sub2{
+			position:absolute;
+			left:43px;
+			top:145px;
+			}
+			
+				.sub2 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub2 a:hover{
+					color:#999;
+				}
+			
+		.intro-cat{
+			position:absolute;
+			left:217px;
+			top:210px;
+			text-align:center;
+			}
+			
+				.intro-cat a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:14px;
+					font-weight:bold;
+					font-stretch:condensed;
+					color:#06F;
+				}
+				
+				.intro-cat a:hover{
+					color:#999;
+				}
+			
+			
+		.sub3{
+			position:absolute;
+			left:420px;
+			top:135px;
+			}
+			
+				.sub3 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:11px;
+					color:#06F;
+				}
+				
+				.sub3 a:hover{
+					color:#999;
+				}			
+		
+		.sub4{
+			position:absolute;
+			left:480px;
+			top:35px;
+			}
+			
+				.sub4 a{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:12px;
+					color:#06F;
+				}
+				
+				.sub4 a:hover{
+					color:#999;
+				}
+			
+		#modulo1 .noticias{
+			position:relative;
+			left:640px;
+			top:-30px;
+			margin:3px 5px 3px 5px;
+			color:#03C;
+		}
+		
+			#modulo1 .noticias a{
+				font-family:arial,helvetica,sans serif;
+				font-size:16px;
+				color:#FFF;
+			}
+			
+				#modulo1 .noticias a:hover{
+					color:#039;
+				}
+		
+			
+		#modulo1 table{
+			position:relative;
+			top:-195px;
+			left:40px;
+			transition:transform 0.6s;
+			-moz-transition:-moz-transform 0.6s;
+			-o-transition:-o-transform 0.4s;
+			-ms-transition:-ms-transform 0.6s;
+			-webkit-transition:-webkit-transform 0.6s;
+		}
+		
+			#modulo1 table .facebook img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/facebook-activo.png);
+			}
+			
+			#modulo1 table .twitter img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/twitter-activo.png);
+			}
+			
+			#modulo1 table .youtube img:hover{
+				transform:scale(1.4, 1.4);
+				-moz-transform:scale(1.4, 1.4);
+				-0-transform:scale(1.4, 1.4);
+				-ms-transform:scale(1.4, 1.4);
+				-webkit-transform:scale(1.4, 1.4);				
+				background-image:url(../img/index/redes-sociales/youtube-activo.png);
+			}
+			
+			
+		#seccion_m2{
+			width:1026px;
+			height:335px;
+		}
+		
+		#modulo2{
+			width:1026px;
+			height:335px;
+			margin:0;
+			border:0;
+			padding:0;						
+			}
+			
+			#modulo2 #sidebar-left{
+				width:203px;
+				height:335px;				
+				text-align:left;
+				float:left;	
+				background-image:url(../img/inverlago_corporativo/sidebar_left.jpg);
+							
+			}
+			
+				#modulo2 #sidebar-left p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:bold;
+					color:#06F;
+					position:relative;
+					top:-30px;
+					left:35px;
+				}
+			
+				#modulo2 #sidebar-left table{
+					width:100px;
+					height:200px;
+					margin:45px 0 0 5px;
+				}
+				
+				#modulo2 #sidebar-left table a{
+					font-size:12px;
+				}
+				
+					#modulo2 #sidebar-left table th{
+						padding:0 0 0 40px;
+					}
+					
+					#modulo2 #sidebar-left table a{
+						color:#999;
+					}
+					
+						#modulo2 #sidebar-left table a:hover{
+							color:#000;
+						}
+		
+			#modulo2-main{
+				width:622px;
+				height:335px;				
+				float:left;															
+			}
+									
+				#modulo2 #modos-navegacion{
+					width:624px;
+					height:175px;						
+					background-image:url(../img/inverlago_corporativo/nav.jpg);				
+				}
+				
+				#modulo2 #modos-navegacion a:link{
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:10px;
+					color:#999;				
+				}
+				
+				#modulo2 #modos-navegacion a:hover{
+					color:#06F;				
+				}
+				
+				#modulo2 #modos-navegacion table{
+					position:relative;
+					top:45px;
+					left:130px;
+				}
+				
+				
+									
+				#botonera{
+					width:623px;
+					height:160px;
+					float:left;
+					background-image:url(../img/inverlago_corporativo/botonera.jpg);
+				}
+				
+					#botonera ul{
+						list-style:none;
+					}
+					
+						#botonera li{
+							display:inline;
+							width:50px;
+							height:50px;					
+						}
+						
+						.proveedores_icon1{
+							position: relative;
+							top: 80px;
+							left: 70px;
+						}
+						
+						.proveedores_icon2{
+							position: relative;
+							top: 30px;
+							left: 75px;
+						}
+						
+						.proveedores_icon3{
+							position: relative;
+							top: 10px;
+							left: 95px;
+						}
+						
+						.proveedores_icon4{
+							position: relative;
+							top: 20px;
+							left: 117px;
+						}
+						
+						.proveedores_icon5{
+							position: relative;
+							top: 40px;
+							left: 130px;
+						}
+						
+						.proveedores_icon6{
+							position: relative;
+							top: 95px;
+							left: 130px;
+						}
+						
+							
+												
+			#sidebar-right{
+				width:199px;
+				height:335px;
+				float:left;
+				background-image:url(../img/inverlago_corporativo/sidebar-right.jpg);			
+			}
+			
+				#sidebar-right p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:bold;
+					color:#06F;
+					margin:-20px 0 0 90px;
+				}
+			
+				#sidebar-right .slideshow{
+					height:300px;
+					width:165px;
+					margin:20px 0 0 30px;					
+					border:1px solid #CCC;
+					bakground-color:#eee;
+					overflow:hidden;
+	
+				}
+		
+			
+		#seccion_m3{
+			width:1024px;
+			height:368px;
+		}
+		
+			#modulo3{
+				width:1024px;
+				height:368px;				
+			}
+			
+				#m3_left{
+					width:336px;
+					height:197px;
+					float:left;
+				}
+				
+					#m3_left1{
+						width:203px;
+						height:197px;
+						background-image:url(../img/inverlago_corporativo/repro.jpg);
+						float:left;
+					}
+					
+					#m3_left2{
+						width:133px;
+						height:197px;
+						background-image:url(../img/inverlago_corporativo/inverlago_corporativo_11.jpg);
+						float:left;
+					}
+					
+						#m3_left2 ul{
+							list-style:none;
+						}
+						
+							#m3_left2 ul li{
+								width:50px;
+								height:50px;
+								display:inline-block;
+							}
+							
+						.m3_left_icon1{
+							position: relative;
+							top: -50px;
+							left: 17px;
+						}
+						
+						.m3_left_icon2{
+							position: relative;
+							top: -70px;
+							left: -10px;
+						}
+						
+						.m3_left_icon3{
+							position: relative;
+							top: -90px;
+							left: -17px;
+						}
+					
+					#m3_left3{
+						width:336px;
+						height:171px;
+						background-image:url(../img/inverlago_corporativo/repro2.jpg);
+						float:left;
+					}
+					
+				#m3_center{
+					width:352px;
+					height:368px;
+					background-image:url(../img/inverlago_corporativo/inverlago_corporativo_12.jpg);										
+					float:left;					
+				}
+				
+					#m3_center ul{
+						list-style:none;						
+					}
+					
+						#m3_center ul li{
+							width:45px;
+							height:45px;
+							display:inline;
+						}
+						
+					.m3_center_icon1{
+						position: relative;
+						top: 20px;
+						left: 50px;
+					}
+					
+					.m3_center_icon2{
+						position: relative;
+						top: 145px;
+						left: -60px;
+					}
+					
+					.m3_center_icon3{
+						position: relative;
+						top: 255px;
+						left: -4px;
+					}
+					
+					.m3_center_icon4{
+						position: relative;
+						top: 190px;
+						left: 75px;
+					}
+					
+					.m3_center_icon5{
+						position: relative;
+						top: 45px;
+						left: 10px;
+					}
+				
+					
+				#m3_right{
+					width:336px;
+					height:197px;
+					float:left;
+				}
+				
+					#m3_right1{
+						width:138px;
+						height:197px;
+						background-image:url(../img/inverlago_corporativo/inverlago_corporativo_13.jpg);
+						float:left;
+					}
+					
+						#m3_right1 ul{
+							list-style:none;
+						}
+						
+							#m3_right ul li{
+								width:50px;
+								height:50px;
+								display:inline-block;
+							}
+							
+							.m3_right_icon1{
+								position: relative;
+								top: -10px;
+								left: -20px;
+							}
+							
+							.m3_right_icon2{
+								position: relative;
+								top: -20px;
+								left: 0px;
+							}
+							
+							.m3_right_icon3{
+								position: relative;
+								top: -30px;
+								left: 15px;
+							}
+					
+					#m3_right2{
+						width:198px;
+						height:197px;
+						background-image:url(../img/inverlago_corporativo/inverlago_corporativo_14.jpg);
+						float:left;	
+					}
+					
+					#m3_right3{
+						width:336px;
+						height:171px;
+						background-image:url(../img/inverlago_corporativo/inverlago_corporativo_16.jpg);
+						float:left;
+					}
+		
+		#seccion_m4{
+			width:1024px;
+		}
+		
+			#modulo4{
+				width:1024px;
+				height:331px;
+				background-image:url(../img/inverlago_corporativo/footer.jpg);
+			}
+			
+.tips{
+	position:relative;
+	z-index:100;
+}
+
+	span{
+		display:none;
+	}
+	
+	.tips:hover{
+		z-index:21;
+	}
+	
+	.tips:hover span{
+		display:block;
+		width:100%;
+		padding:5px;
+		color:#FFF;
+		font-size:12px;
+		text-decoration:none;
+		position:absolute;
+		top:0px;
+		left:10px;
+		background-color:rgba(0,0,0,0.7);
+		border-radius:6px;		
+	}
+	
+
+		#info{
+			width:1024px;			
+		}
+		
+			#corporativo{
+				width:850px;
+				height:150px;
+				margin:60px 0 0 80px;
+			}
+			
+				#corporativo p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:200;
+					line-height:25px;
+					text-justify:auto;
+					color:#666;
+					padding:0 0 0 60px;
+				}
+				
+			#deportes{
+				width:850px;
+				height:150px;
+				margin:0 0 0 80px;
+			}
+			
+				#deportes p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:200;
+					line-height:25px;
+					text-justify:auto;
+					color:#666;
+					padding:0 0 0 60px;
+				}
+				
+			#pinturas{
+				width:850px;
+				height:150px;
+				margin:0 0 0 80px;
+			}
+			
+				#pinturas p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:200;
+					line-height:25px;
+					text-justify:auto;
+					color:#666;
+					padding:0 0 0 60px;
+				}
+				
+			#construccion{
+				width:850px;
+				height:150px;
+				margin:0 0 0 80px;
+			}
+			
+				#construccion p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:200;
+					line-height:25px;
+					text-justify:auto;
+					color:#666;
+					padding:0 0 0 60px;
+				}
+				
+			#sedeportes{
+				width:850px;
+				height:150px;
+				margin:0 0 0 80px;
+			}
+			
+				#sedeportes p{
+					font-family:arial,helvetica,sans serif;
+					font-size:14px;
+					font-weight:200;
+					line-height:25px;
+					text-justify:auto;
+					color:#666;
+					padding:0 0 0 60px;
+				}

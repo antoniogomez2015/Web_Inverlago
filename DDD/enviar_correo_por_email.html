@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>enviar correos por E-mail</title>
+	<!--Css-->
+		<!--nuestros estilos-->
+	<style type="text/css">
+
+		body{
+			border: 0px;
+			margin: 0px auto;
+			padding: 0px;
+			text-align: center;
+		}
+
+			#wrapper{
+				width: 100%;
+				min-height: 800px;
+				margin: 0px auto;
+			}
+
+				#formulario{
+					width: 800px;
+					height: 500px;
+					background-color: #ccc;
+					border-radius: 20px;
+					border: solid 1px black;
+					margin: auto;
+					margin-top: 150px;
+				}
+
+					form{
+						width: 450px;
+						margin: 0px auto;
+						margin-top: 100px;
+					}
+
+	</style>
+	<!--Js-->
+		<!--jquery-->
+</head>
+<body>
+
+	<!--
+	tutorial: Tutorial - Como enviar email con PHP (Formulario de contacto) 2/4
+	https://www.youtube.com/watch?v=wUWrK7VUjaU&index=11&list=PLBbEh3q5rYh1jkc-B-mJgVZH0tsFIfX8x
+	-->
+
+	<div id="wrapper">
+		
+		<div id="formulario">
+
+			<form method="post" action="enviar.php" name="e-mail_form" id="e-mail_form">
+				<label for="">Nombre</label>
+				<input type="text" name="nombre" value="nombre" id="nombre"><br />
+
+				<label for="">Apellidos</label>
+				<input type="text" name="apellido" value="apellido" id="apellido"><br />
+
+				<label for="">Consulta</label>
+				<textarea name="consulta" rows="5" cols="32" id="consulta"></textarea><br />
+
+				<input type="button" value="Enviar consulta">
+
+				<h2 class="res">envianos tus requerimientos</h2>
+			</form>
+			
+		</div>
+
+	</div>
+	
+</body>
+</html>
